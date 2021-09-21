@@ -1,0 +1,1409 @@
+Expert,Location,Action,group.x,MS,Fire,PBFV,Bird.number,Lower,Estimate,Upper,Cost
+A,Tasmania,No action + no captive population,no action,0,0,0,0,0,0,0,0
+A,Tasmania,mixed release strategy,current range ,1,1,1,100,0,0.15,0.5,107322746.5
+A,Tasmania,mixed release strategy,current range ,1,1,1,50,0,0.04,0.2,64653471.5
+A,Tasmania,focus wild born young,current range ,2,1,1,100,0,0.2,0.5,101596046.5
+A,Tasmania,focus wild born young,current range ,2,1,1,50,0,0.1,0.3,60199171.5
+A,Tasmania,focus wild born young + mainland release,current range ,3,1,1,100,0,0.2,0.4,110541246.5
+A,Tasmania,focus wild born young + mainland release,current range ,3,1,1,50,0,0.1,0.45,64926346.5
+A,Tasmania,focus high quality young leaving,current range ,4,1,1,100,0.2,0.4,0.7,96964696.5
+A,Tasmania,focus high quality young leaving,current range ,4,1,1,50,0.1,0.4,0.6,55539446.5
+A,Tasmania,focus high quality young leaving + mainland release,current range ,5,1,1,100,0.25,0.5,0.8,103519496.5
+A,Tasmania,focus high quality young leaving + mainland release,current range ,5,1,1,50,0.2,0.4,0.6,60304771.5
+A,Tasmania,fledgling release only,current range ,6,1,1,100,0.05,0.25,0.35,99993171.5
+A,Tasmania,fledgling release only,current range ,6,1,1,50,0,0.2,0.3,58459421.5
+A,Tasmania,fledgling release + mainland release,current range ,7,1,1,100,0.3,0.4,0.45,108471371.5
+A,Tasmania,fledgling release + mainland release,current range ,7,1,1,50,0.2,0.35,0.5,64707721.5
+A,Tasmania,mixed release strategy w/out fire,current range ,8,0,1,100,0,0.05,0.1,105910100
+A,Tasmania,mixed release strategy w/out fire,current range ,8,0,1,50,0,0,0.2,62855825
+A,Tasmania,mixed release strategy w/out PBFV,current range ,9,1,0,100,0,0.05,0.5,93657746.5
+A,Tasmania,mixed release strategy w/out PBFV,current range ,9,1,0,50,0,0.01,0.2,61953471.5
+A,Tasmania,focus wild born young w/out fire,current range ,10,0,1,100,0,0.1,0.3,99798400
+A,Tasmania,focus wild born young w/out fire,current range ,10,0,1,50,0,0.1,0.3,58401525
+B,Tasmania,No action + no captive population,no action,0,0,0,0,0,0,0,0
+B,Tasmania,mixed release strategy,current range ,1,1,1,100,0,0.2,0.4,107322746.5
+B,Tasmania,mixed release strategy,current range ,1,1,1,50,0,0.1,0.2,64653471.5
+B,Tasmania,focus wild born young,current range ,2,1,1,100,0,0.2,0.4,101596046.5
+B,Tasmania,focus wild born young,current range ,2,1,1,50,0,0.2,0.4,60199171.5
+B,Tasmania,focus wild born young + mainland release,current range ,3,1,1,100,0,0.2,0.4,110541246.5
+B,Tasmania,focus wild born young + mainland release,current range ,3,1,1,50,0,0.2,0.4,64926346.5
+B,Tasmania,focus high quality young leaving,current range ,4,1,1,100,0,0.2,0.4,96964696.5
+B,Tasmania,focus high quality young leaving,current range ,4,1,1,50,0,0.1,0.2,55539446.5
+B,Tasmania,focus high quality young leaving + mainland release,current range ,5,1,1,100,0,0.2,0.4,103519496.5
+B,Tasmania,focus high quality young leaving + mainland release,current range ,5,1,1,50,0,0.1,0.2,60304771.5
+B,Tasmania,fledgling release only,current range ,6,1,1,100,0,0.2,0.4,99993171.5
+B,Tasmania,fledgling release only,current range ,6,1,1,50,0,0.1,0.2,58459421.5
+B,Tasmania,fledgling release + mainland release,current range ,7,1,1,100,0,0.2,0.4,108471371.5
+B,Tasmania,fledgling release + mainland release,current range ,7,1,1,50,0,0.1,0.2,64707721.5
+B,Tasmania,mixed release strategy w/out fire,current range ,8,0,1,100,0,0.2,0.4,105910100
+B,Tasmania,mixed release strategy w/out fire,current range ,8,0,1,50,0,0.1,0.2,62855825
+B,Tasmania,mixed release strategy w/out PBFV,current range ,9,1,0,100,0,0.2,0.4,93657746.5
+B,Tasmania,mixed release strategy w/out PBFV,current range ,9,1,0,50,0,0.1,0.2,61953471.5
+B,Tasmania,focus wild born young w/out fire,current range ,10,0,1,100,0,0.2,0.4,99798400
+B,Tasmania,focus wild born young w/out fire,current range ,10,0,1,50,0,0.2,0.4,58401525
+C,Tasmania,No action + no captive population,no action,0,0,0,0,0,0,0,0
+C,Tasmania,mixed release strategy,current range ,1,1,1,100,0.3,0.5,0.6,107322746.5
+C,Tasmania,mixed release strategy,current range ,1,1,1,50,0.3,0.5,0.6,64653471.5
+C,Tasmania,focus wild born young,current range ,2,1,1,100,0.2,0.4,0.6,101596046.5
+C,Tasmania,focus wild born young,current range ,2,1,1,50,0.2,0.4,0.6,60199171.5
+C,Tasmania,focus wild born young + mainland release,current range ,3,1,1,100,0.2,0.3,0.5,110541246.5
+C,Tasmania,focus wild born young + mainland release,current range ,3,1,1,50,0.1,0.2,0.3,64926346.5
+C,Tasmania,focus high quality young leaving,current range ,4,1,1,100,0,0.2,0.3,96964696.5
+C,Tasmania,focus high quality young leaving,current range ,4,1,1,50,0.1,0.2,0.3,55539446.5
+C,Tasmania,focus high quality young leaving + mainland release,current range ,5,1,1,100,0.3,0.45,0.55,103519496.5
+C,Tasmania,focus high quality young leaving + mainland release,current range ,5,1,1,50,0.05,0.2,0.3,60304771.5
+C,Tasmania,fledgling release only,current range ,6,1,1,100,0,0.1,0.2,99993171.5
+C,Tasmania,fledgling release only,current range ,6,1,1,50,0,0.1,0.2,58459421.5
+C,Tasmania,fledgling release + mainland release,current range ,7,1,1,100,0.2,0.3,0.5,108471371.5
+C,Tasmania,fledgling release + mainland release,current range ,7,1,1,50,0.1,0.2,0.3,64707721.5
+C,Tasmania,mixed release strategy w/out fire,current range ,8,0,1,100,0,0.1,0.2,105910100
+C,Tasmania,mixed release strategy w/out fire,current range ,8,0,1,50,0,0.05,0.1,62855825
+C,Tasmania,mixed release strategy w/out PBFV,current range ,9,1,0,100,0.3,0.5,0.6,93657746.5
+C,Tasmania,mixed release strategy w/out PBFV,current range ,9,1,0,50,0.1,0.2,0.4,61953471.5
+C,Tasmania,focus wild born young w/out fire,current range ,10,0,1,100,0,0.1,0.2,99798400
+C,Tasmania,focus wild born young w/out fire,current range ,10,0,1,50,0,0,0.1,58401525
+D,Tasmania,No action + no captive population,no action,0,0,0,0,0,0.1,0.2,0
+D,Tasmania,mixed release strategy,current range ,1,1,1,100,0.5,0.65,0.8,107322746.5
+D,Tasmania,mixed release strategy,current range ,1,1,1,50,0.3,0.4,0.55,64653471.5
+D,Tasmania,focus wild born young,current range ,2,1,1,100,0.25,0.38,0.51,101596046.5
+D,Tasmania,focus wild born young,current range ,2,1,1,50,0.15,0.25,0.38,60199171.5
+D,Tasmania,focus wild born young + mainland release,current range ,3,1,1,100,0.3,0.45,0.55,110541246.5
+D,Tasmania,focus wild born young + mainland release,current range ,3,1,1,50,0.2,0.35,0.55,64926346.5
+D,Tasmania,focus high quality young leaving,current range ,4,1,1,100,0.21,0.35,0.49,96964696.5
+D,Tasmania,focus high quality young leaving,current range ,4,1,1,50,0.16,0.25,0.36,55539446.5
+D,Tasmania,focus high quality young leaving + mainland release,current range ,5,1,1,100,0.3,0.4,0.5,103519496.5
+D,Tasmania,focus high quality young leaving + mainland release,current range ,5,1,1,50,0.2,0.3,0.4,60304771.5
+D,Tasmania,fledgling release only,current range ,6,1,1,100,0.14,0.25,0.4,99993171.5
+D,Tasmania,fledgling release only,current range ,6,1,1,50,0.05,0.15,0.3,58459421.5
+D,Tasmania,fledgling release + mainland release,current range ,7,1,1,100,NA,NA,NA,108471371.5
+D,Tasmania,fledgling release + mainland release,current range ,7,1,1,50,0.1,0.2,0.34,64707721.5
+D,Tasmania,mixed release strategy w/out fire,current range ,8,0,1,100,0.25,0.35,0.45,105910100
+D,Tasmania,mixed release strategy w/out fire,current range ,8,0,1,50,0.15,0.25,0.35,62855825
+D,Tasmania,mixed release strategy w/out PBFV,current range ,9,1,0,100,0.2,0.3,0.4,93657746.5
+D,Tasmania,mixed release strategy w/out PBFV,current range ,9,1,0,50,0.1,0.2,0.3,61953471.5
+D,Tasmania,focus wild born young w/out fire,current range ,10,0,1,100,0.3,0.45,0.57,99798400
+D,Tasmania,focus wild born young w/out fire,current range ,10,0,1,50,0.1,0.3,0.46,58401525
+E,Tasmania,No action + no captive population,no action,0,0,0,0,NA,0.05,0.2,0
+E,Tasmania,mixed release strategy,current range ,1,1,1,100,0.6,0.7,0.95,107322746.5
+E,Tasmania,mixed release strategy,current range ,1,1,1,50,0.5,0.6,0.8,64653471.5
+E,Tasmania,focus wild born young,current range ,2,1,1,100,0.1,0.25,0.4,101596046.5
+E,Tasmania,focus wild born young,current range ,2,1,1,50,0,0.25,0.35,60199171.5
+E,Tasmania,focus wild born young + mainland release,current range ,3,1,1,100,0.1,0.25,0.4,110541246.5
+E,Tasmania,focus wild born young + mainland release,current range ,3,1,1,50,0.1,0.25,0.4,64926346.5
+E,Tasmania,focus high quality young leaving,current range ,4,1,1,100,0.6,0.8,1,96964696.5
+E,Tasmania,focus high quality young leaving,current range ,4,1,1,50,0.6,0.75,0.9,55539446.5
+E,Tasmania,focus high quality young leaving + mainland release,current range ,5,1,1,100,0.55,0.8,1,103519496.5
+E,Tasmania,focus high quality young leaving + mainland release,current range ,5,1,1,50,0.55,0.8,0.95,60304771.5
+E,Tasmania,fledgling release only,current range ,6,1,1,100,0.9,0.95,1,99993171.5
+E,Tasmania,fledgling release only,current range ,6,1,1,50,0.8,0.9,1,58459421.5
+E,Tasmania,fledgling release + mainland release,current range ,7,1,1,100,0.8,0.9,1,108471371.5
+E,Tasmania,fledgling release + mainland release,current range ,7,1,1,50,0.7,0.8,0.9,64707721.5
+E,Tasmania,mixed release strategy w/out fire,current range ,8,0,1,100,0.25,0.5,0.75,105910100
+E,Tasmania,mixed release strategy w/out fire,current range ,8,0,1,50,0.25,0.5,0.75,62855825
+E,Tasmania,mixed release strategy w/out PBFV,current range ,9,1,0,100,0.1,0.7,0.9,93657746.5
+E,Tasmania,mixed release strategy w/out PBFV,current range ,9,1,0,50,0.1,0.5,0.8,61953471.5
+E,Tasmania,focus wild born young w/out fire,current range ,10,0,1,100,0.1,0.25,0.4,99798400
+E,Tasmania,focus wild born young w/out fire,current range ,10,0,1,50,0.1,0.25,0.35,58401525
+F,Tasmania,No action + no captive population,no action,0,0,0,0,0,0,0,0
+F,Tasmania,mixed release strategy,current range ,1,1,1,100,0,0.05,0.1,107322746.5
+F,Tasmania,mixed release strategy,current range ,1,1,1,50,0,0,0.05,64653471.5
+F,Tasmania,focus wild born young,current range ,2,1,1,100,0,0.1,0.1,101596046.5
+F,Tasmania,focus wild born young,current range ,2,1,1,50,0,0.05,0.1,60199171.5
+F,Tasmania,focus wild born young + mainland release,current range ,3,1,1,100,0,0.1,0.1,110541246.5
+F,Tasmania,focus wild born young + mainland release,current range ,3,1,1,50,0,0.05,0.1,64926346.5
+F,Tasmania,focus high quality young leaving,current range ,4,1,1,100,0,0.1,0.1,96964696.5
+F,Tasmania,focus high quality young leaving,current range ,4,1,1,50,0,0.05,0.1,55539446.5
+F,Tasmania,focus high quality young leaving + mainland release,current range ,5,1,1,100,0,0.1,0.1,103519496.5
+F,Tasmania,focus high quality young leaving + mainland release,current range ,5,1,1,50,0,0.05,0.1,60304771.5
+F,Tasmania,fledgling release only,current range ,6,1,1,100,0,0.05,0.05,99993171.5
+F,Tasmania,fledgling release only,current range ,6,1,1,50,0,0,0.05,58459421.5
+F,Tasmania,fledgling release + mainland release,current range ,7,1,1,100,0,0.05,0.05,108471371.5
+F,Tasmania,fledgling release + mainland release,current range ,7,1,1,50,0,0,0.05,64707721.5
+F,Tasmania,mixed release strategy w/out fire,current range ,8,0,1,100,0,0,0.05,105910100
+F,Tasmania,mixed release strategy w/out fire,current range ,8,0,1,50,0,0,0.05,62855825
+F,Tasmania,mixed release strategy w/out PBFV,current range ,9,1,0,100,0,0,0.05,93657746.5
+F,Tasmania,mixed release strategy w/out PBFV,current range ,9,1,0,50,0,0,0,61953471.5
+F,Tasmania,focus wild born young w/out fire,current range ,10,0,1,100,0,0,0,99798400
+F,Tasmania,focus wild born young w/out fire,current range ,10,0,1,50,0,0,0,58401525
+G,Tasmania,No action + no captive population,no action,0,0,0,0,NA,NA,NA,0
+G,Tasmania,mixed release strategy,current range ,1,1,1,100,0,0.14,0.2,107322746.5
+G,Tasmania,mixed release strategy,current range ,1,1,1,50,0,0.1,0.15,64653471.5
+G,Tasmania,focus wild born young,current range ,2,1,1,100,0,0.12,0.2,101596046.5
+G,Tasmania,focus wild born young,current range ,2,1,1,50,0,0.14,0.19,60199171.5
+G,Tasmania,focus wild born young + mainland release,current range ,3,1,1,100,0,0.11,0.18,110541246.5
+G,Tasmania,focus wild born young + mainland release,current range ,3,1,1,50,0,0.12,0.19,64926346.5
+G,Tasmania,focus high quality young leaving,current range ,4,1,1,100,0,0.4,0.65,96964696.5
+G,Tasmania,focus high quality young leaving,current range ,4,1,1,50,0,0.3,0.5,55539446.5
+G,Tasmania,focus high quality young leaving + mainland release,current range ,5,1,1,100,0,0.21,0.42,103519496.5
+G,Tasmania,focus high quality young leaving + mainland release,current range ,5,1,1,50,0,0.19,0.35,60304771.5
+G,Tasmania,fledgling release only,current range ,6,1,1,100,0,0.44,0.65,99993171.5
+G,Tasmania,fledgling release only,current range ,6,1,1,50,0,0.35,0.55,58459421.5
+G,Tasmania,fledgling release + mainland release,current range ,7,1,1,100,0,0.2,0.38,108471371.5
+G,Tasmania,fledgling release + mainland release,current range ,7,1,1,50,0,0.15,0.3,64707721.5
+G,Tasmania,mixed release strategy w/out fire,current range ,8,0,1,100,0,0,0.99,105910100
+G,Tasmania,mixed release strategy w/out fire,current range ,8,0,1,50,0,0,0.99,62855825
+G,Tasmania,mixed release strategy w/out PBFV,current range ,9,1,0,100,0,0.14,0.19,93657746.5
+G,Tasmania,mixed release strategy w/out PBFV,current range ,9,1,0,50,0,0.1,0.15,61953471.5
+G,Tasmania,focus wild born young w/out fire,current range ,10,0,1,100,0,0,0.12,99798400
+G,Tasmania,focus wild born young w/out fire,current range ,10,0,1,50,0,0,0.12,58401525
+H,Tasmania,No action + no captive population,no action,0,0,0,0,0,0.05,0.15,0
+H,Tasmania,mixed release strategy,current range ,1,1,1,100,0.9,0.98,1,107322746.5
+H,Tasmania,mixed release strategy,current range ,1,1,1,50,0.7,0.91,1,64653471.5
+H,Tasmania,focus wild born young,current range ,2,1,1,100,0.1,0.6,0.8,101596046.5
+H,Tasmania,focus wild born young,current range ,2,1,1,50,0.1,0.45,0.75,60199171.5
+H,Tasmania,focus wild born young + mainland release,current range ,3,1,1,100,0.1,0.6,0.8,110541246.5
+H,Tasmania,focus wild born young + mainland release,current range ,3,1,1,50,0.1,0.5,0.75,64926346.5
+H,Tasmania,focus high quality young leaving,current range ,4,1,1,100,0.6,0.9,1,96964696.5
+H,Tasmania,focus high quality young leaving,current range ,4,1,1,50,0.3,0.75,0.95,55539446.5
+H,Tasmania,focus high quality young leaving + mainland release,current range ,5,1,1,100,0.65,0.85,1,103519496.5
+H,Tasmania,focus high quality young leaving + mainland release,current range ,5,1,1,50,0.35,0.7,0.95,60304771.5
+H,Tasmania,fledgling release only,current range ,6,1,1,100,0.9,0.9,1,99993171.5
+H,Tasmania,fledgling release only,current range ,6,1,1,50,0.8,0.95,1,58459421.5
+H,Tasmania,fledgling release + mainland release,current range ,7,1,1,100,0.85,0.95,1,108471371.5
+H,Tasmania,fledgling release + mainland release,current range ,7,1,1,50,0.75,0.85,1,64707721.5
+H,Tasmania,mixed release strategy w/out fire,current range ,8,0,1,100,0,0.35,0.6,105910100
+H,Tasmania,mixed release strategy w/out fire,current range ,8,0,1,50,0,0.35,0.7,62855825
+H,Tasmania,mixed release strategy w/out PBFV,current range ,9,1,0,100,0.9,0.95,1,93657746.5
+H,Tasmania,mixed release strategy w/out PBFV,current range ,9,1,0,50,0.75,0.9,1,61953471.5
+H,Tasmania,focus wild born young w/out fire,current range ,10,0,1,100,0,0.5,0.55,99798400
+H,Tasmania,focus wild born young w/out fire,current range ,10,0,1,50,0,0.45,0.5,58401525
+I,Tasmania,No action + no captive population,no action,0,0,0,0,0,0,0,0
+I,Tasmania,mixed release strategy,current range ,1,1,1,100,0.09,NA,0.62,107322746.5
+I,Tasmania,mixed release strategy,current range ,1,1,1,50,0.04,0.24,0.44,64653471.5
+I,Tasmania,focus wild born young,current range ,2,1,1,100,0.2,0.7,0.9,101596046.5
+I,Tasmania,focus wild born young,current range ,2,1,1,50,0.2,0.59,0.7,60199171.5
+I,Tasmania,focus wild born young + mainland release,current range ,3,1,1,100,0.2,NA,0.66,110541246.5
+I,Tasmania,focus wild born young + mainland release,current range ,3,1,1,50,NA,NA,NA,64926346.5
+I,Tasmania,focus high quality young leaving,current range ,4,1,1,100,0.3,0.81,0.91,96964696.5
+I,Tasmania,focus high quality young leaving,current range ,4,1,1,50,0.25,0.75,0.85,55539446.5
+I,Tasmania,focus high quality young leaving + mainland release,current range ,5,1,1,100,0.25,0.74,0.85,103519496.5
+I,Tasmania,focus high quality young leaving + mainland release,current range ,5,1,1,50,0.19,0.65,0.8,60304771.5
+I,Tasmania,fledgling release only,current range ,6,1,1,100,0.19,0.76,0.85,99993171.5
+I,Tasmania,fledgling release only,current range ,6,1,1,50,0.15,0.66,0.8,58459421.5
+I,Tasmania,fledgling release + mainland release,current range ,7,1,1,100,0.2,0.8,0.94,108471371.5
+I,Tasmania,fledgling release + mainland release,current range ,7,1,1,50,0.21,0.7,0.8,64707721.5
+I,Tasmania,mixed release strategy w/out fire,current range ,8,0,1,100,NA,NA,NA,105910100
+I,Tasmania,mixed release strategy w/out fire,current range ,8,0,1,50,0,0.1,0.2,62855825
+I,Tasmania,mixed release strategy w/out PBFV,current range ,9,1,0,100,0.15,0.7,0.8,93657746.5
+I,Tasmania,mixed release strategy w/out PBFV,current range ,9,1,0,50,0.1,0.28,0.58,61953471.5
+I,Tasmania,focus wild born young w/out fire,current range ,10,0,1,100,0.2,0.5,0.8,99798400
+I,Tasmania,focus wild born young w/out fire,current range ,10,0,1,50,0.14,0.42,0.8,58401525
+J,Tasmania,No action + no captive population,no action,0,0,0,0,0,0,0.1,0
+J,Tasmania,mixed release strategy,current range ,1,1,1,100,0.6,0.79,0.95,107322746.5
+J,Tasmania,mixed release strategy,current range ,1,1,1,50,0.5,0.7,0.9,64653471.5
+J,Tasmania,focus wild born young,current range ,2,1,1,100,0.6,NA,0.9,101596046.5
+J,Tasmania,focus wild born young,current range ,2,1,1,50,0.4,0.5,0.85,60199171.5
+J,Tasmania,focus wild born young + mainland release,current range ,3,1,1,100,0.5,0.65,0.8,110541246.5
+J,Tasmania,focus wild born young + mainland release,current range ,3,1,1,50,0.5,0.65,0.8,64926346.5
+J,Tasmania,focus high quality young leaving,current range ,4,1,1,100,0.45,0.65,0.85,96964696.5
+J,Tasmania,focus high quality young leaving,current range ,4,1,1,50,0.4,0.61,0.8,55539446.5
+J,Tasmania,focus high quality young leaving + mainland release,current range ,5,1,1,100,0.55,0.75,0.9,103519496.5
+J,Tasmania,focus high quality young leaving + mainland release,current range ,5,1,1,50,0.5,0.65,0.8,60304771.5
+J,Tasmania,fledgling release only,current range ,6,1,1,100,0.4,0.6,0.85,99993171.5
+J,Tasmania,fledgling release only,current range ,6,1,1,50,0.4,0.55,0.8,58459421.5
+J,Tasmania,fledgling release + mainland release,current range ,7,1,1,100,0.35,0.54,0.7,108471371.5
+J,Tasmania,fledgling release + mainland release,current range ,7,1,1,50,0.3,0.5,0.65,64707721.5
+J,Tasmania,mixed release strategy w/out fire,current range ,8,0,1,100,0.4,0.6,0.8,105910100
+J,Tasmania,mixed release strategy w/out fire,current range ,8,0,1,50,0.4,0.6,0.8,62855825
+J,Tasmania,mixed release strategy w/out PBFV,current range ,9,1,0,100,0.2,0.34,0.5,93657746.5
+J,Tasmania,mixed release strategy w/out PBFV,current range ,9,1,0,50,0.2,0.35,0.5,61953471.5
+J,Tasmania,focus wild born young w/out fire,current range ,10,0,1,100,0.4,0.53,0.7,99798400
+J,Tasmania,focus wild born young w/out fire,current range ,10,0,1,50,0.4,0.56,0.7,58401525
+K,Tasmania,No action + no captive population,no action,0,0,0,0,0,0.05,0.1,0
+K,Tasmania,mixed release strategy,current range ,1,1,1,100,0.5,0.65,0.8,107322746.5
+K,Tasmania,mixed release strategy,current range ,1,1,1,50,0.5,0.65,0.8,64653471.5
+K,Tasmania,focus wild born young,current range ,2,1,1,100,0.5,0.7,0.9,101596046.5
+K,Tasmania,focus wild born young,current range ,2,1,1,50,0.5,0.7,0.9,60199171.5
+K,Tasmania,focus wild born young + mainland release,current range ,3,1,1,100,0.5,0.6,0.7,110541246.5
+K,Tasmania,focus wild born young + mainland release,current range ,3,1,1,50,0.5,0.6,0.7,64926346.5
+K,Tasmania,focus high quality young leaving,current range ,4,1,1,100,0.3,0.5,0.7,96964696.5
+K,Tasmania,focus high quality young leaving,current range ,4,1,1,50,0.3,0.5,0.7,55539446.5
+K,Tasmania,focus high quality young leaving + mainland release,current range ,5,1,1,100,0.25,0.5,0.7,103519496.5
+K,Tasmania,focus high quality young leaving + mainland release,current range ,5,1,1,50,0.25,0.5,0.7,60304771.5
+K,Tasmania,fledgling release only,current range ,6,1,1,100,0,0.3,0.5,99993171.5
+K,Tasmania,fledgling release only,current range ,6,1,1,50,0,0.3,0.5,58459421.5
+K,Tasmania,fledgling release + mainland release,current range ,7,1,1,100,0,0.25,0.5,108471371.5
+K,Tasmania,fledgling release + mainland release,current range ,7,1,1,50,0,0.25,0.5,64707721.5
+K,Tasmania,mixed release strategy w/out fire,current range ,8,0,1,100,0,0.1,0.3,105910100
+K,Tasmania,mixed release strategy w/out fire,current range ,8,0,1,50,0,0.1,0.3,62855825
+K,Tasmania,mixed release strategy w/out PBFV,current range ,9,1,0,100,0,0.1,0.2,93657746.5
+K,Tasmania,mixed release strategy w/out PBFV,current range ,9,1,0,50,0,0.1,0.2,61953471.5
+K,Tasmania,focus wild born young w/out fire,current range ,10,0,1,100,0.5,0.6,0.7,99798400
+K,Tasmania,focus wild born young w/out fire,current range ,10,0,1,50,0.5,0.6,0.7,58401525
+L,Tasmania,No action + no captive population,no action,0,0,0,0,0,0,0,0
+L,Tasmania,mixed release strategy,current range ,1,1,1,100,0,0.1,0.2,107322746.5
+L,Tasmania,mixed release strategy,current range ,1,1,1,50,0,0.1,0.1,64653471.5
+L,Tasmania,focus wild born young,current range ,2,1,1,100,0,0.1,0.2,101596046.5
+L,Tasmania,focus wild born young,current range ,2,1,1,50,0,0.05,0.1,60199171.5
+L,Tasmania,focus wild born young + mainland release,current range ,3,1,1,100,0,0.1,0.2,110541246.5
+L,Tasmania,focus wild born young + mainland release,current range ,3,1,1,50,0,0.05,0.1,64926346.5
+L,Tasmania,focus high quality young leaving,current range ,4,1,1,100,0,0.15,0.3,96964696.5
+L,Tasmania,focus high quality young leaving,current range ,4,1,1,50,0,0.05,0.1,55539446.5
+L,Tasmania,focus high quality young leaving + mainland release,current range ,5,1,1,100,0,0.1,0.3,103519496.5
+L,Tasmania,focus high quality young leaving + mainland release,current range ,5,1,1,50,0,0.05,0.1,60304771.5
+L,Tasmania,fledgling release only,current range ,6,1,1,100,0,0.1,0.3,99993171.5
+L,Tasmania,fledgling release only,current range ,6,1,1,50,0,0.05,0.1,58459421.5
+L,Tasmania,fledgling release + mainland release,current range ,7,1,1,100,0,0.1,0.3,108471371.5
+L,Tasmania,fledgling release + mainland release,current range ,7,1,1,50,0,0.05,0.1,64707721.5
+L,Tasmania,mixed release strategy w/out fire,current range ,8,0,1,100,0,0.1,0.2,105910100
+L,Tasmania,mixed release strategy w/out fire,current range ,8,0,1,50,0,0.05,0.1,62855825
+L,Tasmania,mixed release strategy w/out PBFV,current range ,9,1,0,100,0,0.1,0.2,93657746.5
+L,Tasmania,mixed release strategy w/out PBFV,current range ,9,1,0,50,0,0.05,0.2,61953471.5
+L,Tasmania,focus wild born young w/out fire,current range ,10,0,1,100,0,0.1,0.2,99798400
+L,Tasmania,focus wild born young w/out fire,current range ,10,0,1,50,0,0.05,0.1,58401525
+M,Tasmania,No action + no captive population,no action,0,0,0,0,0,0,0.05,0
+M,Tasmania,mixed release strategy,current range ,1,1,1,100,0.7,0.7,1,107322746.5
+M,Tasmania,mixed release strategy,current range ,1,1,1,50,0.5,0.7,1,64653471.5
+M,Tasmania,focus wild born young,current range ,2,1,1,100,0.5,0.7,1,101596046.5
+M,Tasmania,focus wild born young,current range ,2,1,1,50,0.4,0.6,1,60199171.5
+M,Tasmania,focus wild born young + mainland release,current range ,3,1,1,100,0.49,0.7,1,110541246.5
+M,Tasmania,focus wild born young + mainland release,current range ,3,1,1,50,0.2,0.5,1,64926346.5
+M,Tasmania,focus high quality young leaving,current range ,4,1,1,100,0.3,0.65,1,96964696.5
+M,Tasmania,focus high quality young leaving,current range ,4,1,1,50,0.2,0.5,1,55539446.5
+M,Tasmania,focus high quality young leaving + mainland release,current range ,5,1,1,100,0.3,0.65,1,103519496.5
+M,Tasmania,focus high quality young leaving + mainland release,current range ,5,1,1,50,0.2,0.5,1,60304771.5
+M,Tasmania,fledgling release only,current range ,6,1,1,100,0.3,0.7,1,99993171.5
+M,Tasmania,fledgling release only,current range ,6,1,1,50,0.2,0.5,1,58459421.5
+M,Tasmania,fledgling release + mainland release,current range ,7,1,1,100,0.3,0.5,1,108471371.5
+M,Tasmania,fledgling release + mainland release,current range ,7,1,1,50,0.2,0.45,1,64707721.5
+M,Tasmania,mixed release strategy w/out fire,current range ,8,0,1,100,0.6,0.7,1,105910100
+M,Tasmania,mixed release strategy w/out fire,current range ,8,0,1,50,0.3,0.5,1,62855825
+M,Tasmania,mixed release strategy w/out PBFV,current range ,9,1,0,100,0.5,0.7,1,93657746.5
+M,Tasmania,mixed release strategy w/out PBFV,current range ,9,1,0,50,0.4,0.6,1,61953471.5
+M,Tasmania,focus wild born young w/out fire,current range ,10,0,1,100,0.5,0.6,1,99798400
+M,Tasmania,focus wild born young w/out fire,current range ,10,0,1,50,0.2,0.45,1,58401525
+N,Tasmania,No action + no captive population,no action,0,0,0,0,0,0.05,0.2,0
+N,Tasmania,mixed release strategy,current range ,1,1,1,100,0.4,0.75,0.95,107322746.5
+N,Tasmania,mixed release strategy,current range ,1,1,1,50,0.4,0.7,0.95,64653471.5
+N,Tasmania,focus wild born young,current range ,2,1,1,100,0.4,0.75,0.95,101596046.5
+N,Tasmania,focus wild born young,current range ,2,1,1,50,0.4,0.7,0.95,60199171.5
+N,Tasmania,focus wild born young + mainland release,current range ,3,1,1,100,0.4,0.75,0.95,110541246.5
+N,Tasmania,focus wild born young + mainland release,current range ,3,1,1,50,0.4,0.7,0.95,64926346.5
+N,Tasmania,focus high quality young leaving,current range ,4,1,1,100,0.4,0.75,0.9,96964696.5
+N,Tasmania,focus high quality young leaving,current range ,4,1,1,50,0.35,0.6,0.8,55539446.5
+N,Tasmania,focus high quality young leaving + mainland release,current range ,5,1,1,100,0.4,0.75,0.95,103519496.5
+N,Tasmania,focus high quality young leaving + mainland release,current range ,5,1,1,50,0.4,0.7,0.95,60304771.5
+N,Tasmania,fledgling release only,current range ,6,1,1,100,0.4,0.75,0.95,99993171.5
+N,Tasmania,fledgling release only,current range ,6,1,1,50,0.35,0.65,0.9,58459421.5
+N,Tasmania,fledgling release + mainland release,current range ,7,1,1,100,0.4,0.85,0.95,108471371.5
+N,Tasmania,fledgling release + mainland release,current range ,7,1,1,50,0.4,0.8,0.9,64707721.5
+N,Tasmania,mixed release strategy w/out fire,current range ,8,0,1,100,0.35,0.55,0.85,105910100
+N,Tasmania,mixed release strategy w/out fire,current range ,8,0,1,50,0.35,0.5,0.85,62855825
+N,Tasmania,mixed release strategy w/out PBFV,current range ,9,1,0,100,0.1,0.6,0.85,93657746.5
+N,Tasmania,mixed release strategy w/out PBFV,current range ,9,1,0,50,0.1,0.5,0.75,61953471.5
+N,Tasmania,focus wild born young w/out fire,current range ,10,0,1,100,0.35,0.65,0.85,99798400
+N,Tasmania,focus wild born young w/out fire,current range ,10,0,1,50,0.3,0.6,0.8,58401525
+O,Tasmania,No action + no captive population,no action,0,0,0,0,0,0,0.1,0
+O,Tasmania,mixed release strategy,current range ,1,1,1,100,0.4,0.75,1,107322746.5
+O,Tasmania,mixed release strategy,current range ,1,1,1,50,0.1,0.3,0.7,64653471.5
+O,Tasmania,focus wild born young,current range ,2,1,1,100,0.5,0.6,1,101596046.5
+O,Tasmania,focus wild born young,current range ,2,1,1,50,0,0.4,0.75,60199171.5
+O,Tasmania,focus wild born young + mainland release,current range ,3,1,1,100,0.4,0.5,1,110541246.5
+O,Tasmania,focus wild born young + mainland release,current range ,3,1,1,50,0,0.2,0.5,64926346.5
+O,Tasmania,focus high quality young leaving,current range ,4,1,1,100,0.7,0.85,1,96964696.5
+O,Tasmania,focus high quality young leaving,current range ,4,1,1,50,0.1,0.5,0.8,55539446.5
+O,Tasmania,focus high quality young leaving + mainland release,current range ,5,1,1,100,0.5,0.75,1,103519496.5
+O,Tasmania,focus high quality young leaving + mainland release,current range ,5,1,1,50,0,0.5,0.7,60304771.5
+O,Tasmania,fledgling release only,current range ,6,1,1,100,0.5,0.8,1,99993171.5
+O,Tasmania,fledgling release only,current range ,6,1,1,50,0.2,0.6,0.7,58459421.5
+O,Tasmania,fledgling release + mainland release,current range ,7,1,1,100,0.3,0.65,1,108471371.5
+O,Tasmania,fledgling release + mainland release,current range ,7,1,1,50,0.1,0.25,0.6,64707721.5
+O,Tasmania,mixed release strategy w/out fire,current range ,8,0,1,100,0.25,0.7,1,105910100
+O,Tasmania,mixed release strategy w/out fire,current range ,8,0,1,50,0,0.25,0.65,62855825
+O,Tasmania,mixed release strategy w/out PBFV,current range ,9,1,0,100,0.3,0.5,1,93657746.5
+O,Tasmania,mixed release strategy w/out PBFV,current range ,9,1,0,50,0,0.2,0.6,61953471.5
+O,Tasmania,focus wild born young w/out fire,current range ,10,0,1,100,0.45,0.55,1,99798400
+O,Tasmania,focus wild born young w/out fire,current range ,10,0,1,50,0,0.4,0.65,58401525
+P,Tasmania,No action + no captive population,no action,0,0,0,0,0,0.1,0.1,0
+P,Tasmania,mixed release strategy,current range ,1,1,1,100,0.8,NA,1,107322746.5
+P,Tasmania,mixed release strategy,current range ,1,1,1,50,0.25,0.7,1,64653471.5
+P,Tasmania,focus wild born young,current range ,2,1,1,100,0.75,0.8,1,101596046.5
+P,Tasmania,focus wild born young,current range ,2,1,1,50,0.4,0.5,1,60199171.5
+P,Tasmania,focus wild born young + mainland release,current range ,3,1,1,100,0.6,0.7,1,110541246.5
+P,Tasmania,focus wild born young + mainland release,current range ,3,1,1,50,0.5,0.6,1,64926346.5
+P,Tasmania,focus high quality young leaving,current range ,4,1,1,100,0.35,0.65,1,96964696.5
+P,Tasmania,focus high quality young leaving,current range ,4,1,1,50,0.2,0.5,1,55539446.5
+P,Tasmania,focus high quality young leaving + mainland release,current range ,5,1,1,100,0.9,0.9,1,103519496.5
+P,Tasmania,focus high quality young leaving + mainland release,current range ,5,1,1,50,0.7,0.8,1,60304771.5
+P,Tasmania,fledgling release only,current range ,6,1,1,100,0.5,0.7,1,99993171.5
+P,Tasmania,fledgling release only,current range ,6,1,1,50,0.3,0.5,1,58459421.5
+P,Tasmania,fledgling release + mainland release,current range ,7,1,1,100,0.4,0.8,1,108471371.5
+P,Tasmania,fledgling release + mainland release,current range ,7,1,1,50,0.3,0.75,1,64707721.5
+P,Tasmania,mixed release strategy w/out fire,current range ,8,0,1,100,0.4,0.5,1,105910100
+P,Tasmania,mixed release strategy w/out fire,current range ,8,0,1,50,0.1,0.35,1,62855825
+P,Tasmania,mixed release strategy w/out PBFV,current range ,9,1,0,100,0,0.6,1,93657746.5
+P,Tasmania,mixed release strategy w/out PBFV,current range ,9,1,0,50,0,0.5,1,61953471.5
+P,Tasmania,focus wild born young w/out fire,current range ,10,0,1,100,0.1,0.3,1,99798400
+P,Tasmania,focus wild born young w/out fire,current range ,10,0,1,50,0.1,0.3,1,58401525
+Q,Tasmania,No action + no captive population,no action,0,0,0,0,0,0,0,0
+Q,Tasmania,mixed release strategy,current range ,1,1,1,100,0.2,0.3,0.4,107322746.5
+Q,Tasmania,mixed release strategy,current range ,1,1,1,50,0.2,0.3,0.4,64653471.5
+Q,Tasmania,focus wild born young,current range ,2,1,1,100,0.2,0.3,0.4,101596046.5
+Q,Tasmania,focus wild born young,current range ,2,1,1,50,0.1,0.2,0.3,60199171.5
+Q,Tasmania,focus wild born young + mainland release,current range ,3,1,1,100,0.25,0.35,0.45,110541246.5
+Q,Tasmania,focus wild born young + mainland release,current range ,3,1,1,50,0.15,0.25,0.35,64926346.5
+Q,Tasmania,focus high quality young leaving,current range ,4,1,1,100,0.3,0.4,0.5,96964696.5
+Q,Tasmania,focus high quality young leaving,current range ,4,1,1,50,0.25,0.35,0.45,55539446.5
+Q,Tasmania,focus high quality young leaving + mainland release,current range ,5,1,1,100,0.3,0.4,0.5,103519496.5
+Q,Tasmania,focus high quality young leaving + mainland release,current range ,5,1,1,50,0.25,0.35,0.4,60304771.5
+Q,Tasmania,fledgling release only,current range ,6,1,1,100,0.35,0.45,0.55,99993171.5
+Q,Tasmania,fledgling release only,current range ,6,1,1,50,0.25,0.35,0.45,58459421.5
+Q,Tasmania,fledgling release + mainland release,current range ,7,1,1,100,0.35,0.45,0.55,108471371.5
+Q,Tasmania,fledgling release + mainland release,current range ,7,1,1,50,0.25,0.35,0.45,64707721.5
+Q,Tasmania,mixed release strategy w/out fire,current range ,8,0,1,100,0.15,0.25,0.35,105910100
+Q,Tasmania,mixed release strategy w/out fire,current range ,8,0,1,50,0.1,0.2,0.3,62855825
+Q,Tasmania,mixed release strategy w/out PBFV,current range ,9,1,0,100,0.3,0.4,0.5,93657746.5
+Q,Tasmania,mixed release strategy w/out PBFV,current range ,9,1,0,50,0.2,0.3,0.4,61953471.5
+Q,Tasmania,focus wild born young w/out fire,current range ,10,0,1,100,0.05,0.15,0.25,99798400
+Q,Tasmania,focus wild born young w/out fire,current range ,10,0,1,50,0.05,0.15,0.25,58401525
+R,Tasmania,No action + no captive population,no action,0,0,0,0,0,0.05,0.1,0
+R,Tasmania,mixed release strategy,current range ,1,1,1,100,0,0.5,0.7,107322746.5
+R,Tasmania,mixed release strategy,current range ,1,1,1,50,0,0.3,0.5,64653471.5
+R,Tasmania,focus wild born young,current range ,2,1,1,100,0,0.6,0.7,101596046.5
+R,Tasmania,focus wild born young,current range ,2,1,1,50,0,0.25,0.5,60199171.5
+R,Tasmania,focus wild born young + mainland release,current range ,3,1,1,100,0,0.64,0.7,110541246.5
+R,Tasmania,focus wild born young + mainland release,current range ,3,1,1,50,0,0.2,0.5,64926346.5
+R,Tasmania,focus high quality young leaving,current range ,4,1,1,100,0,0.7,0.8,96964696.5
+R,Tasmania,focus high quality young leaving,current range ,4,1,1,50,0,0.5,0.7,55539446.5
+R,Tasmania,focus high quality young leaving + mainland release,current range ,5,1,1,100,0,0.75,0.8,103519496.5
+R,Tasmania,focus high quality young leaving + mainland release,current range ,5,1,1,50,0,0.3,0.6,60304771.5
+R,Tasmania,fledgling release only,current range ,6,1,1,100,0,0.6,0.8,99993171.5
+R,Tasmania,fledgling release only,current range ,6,1,1,50,0,0.4,0.7,58459421.5
+R,Tasmania,fledgling release + mainland release,current range ,7,1,1,100,0,0.7,0.9,108471371.5
+R,Tasmania,fledgling release + mainland release,current range ,7,1,1,50,0,0.3,0.6,64707721.5
+R,Tasmania,mixed release strategy w/out fire,current range ,8,0,1,100,0,0.2,0.5,105910100
+R,Tasmania,mixed release strategy w/out fire,current range ,8,0,1,50,0,0.1,0.4,62855825
+R,Tasmania,mixed release strategy w/out PBFV,current range ,9,1,0,100,0,0.46,0.7,93657746.5
+R,Tasmania,mixed release strategy w/out PBFV,current range ,9,1,0,50,0,0.25,0.5,61953471.5
+R,Tasmania,focus wild born young w/out fire,current range ,10,0,1,100,0,0.4,0.6,99798400
+R,Tasmania,focus wild born young w/out fire,current range ,10,0,1,50,0,0.15,0.4,58401525
+S,Tasmania,No action + no captive population,no action,0,0,0,0,0,0.05,0.1,0
+S,Tasmania,mixed release strategy,current range ,1,1,1,100,0,0.14,0.53,107322746.5
+S,Tasmania,mixed release strategy,current range ,1,1,1,50,0,0.13,0.51,64653471.5
+S,Tasmania,focus wild born young,current range ,2,1,1,100,0,0.15,0.5,101596046.5
+S,Tasmania,focus wild born young,current range ,2,1,1,50,0,0.15,0.5,60199171.5
+S,Tasmania,focus wild born young + mainland release,current range ,3,1,1,100,0,0.1,0.55,110541246.5
+S,Tasmania,focus wild born young + mainland release,current range ,3,1,1,50,0,0.1,0.5,64926346.5
+S,Tasmania,focus high quality young leaving,current range ,4,1,1,100,0,0.16,0.4,96964696.5
+S,Tasmania,focus high quality young leaving,current range ,4,1,1,50,0,0.16,0.4,55539446.5
+S,Tasmania,focus high quality young leaving + mainland release,current range ,5,1,1,100,0,0.2,0.45,103519496.5
+S,Tasmania,focus high quality young leaving + mainland release,current range ,5,1,1,50,0,0.2,0.45,60304771.5
+S,Tasmania,fledgling release only,current range ,6,1,1,100,0,0.1,0.3,99993171.5
+S,Tasmania,fledgling release only,current range ,6,1,1,50,0,0.1,0.3,58459421.5
+S,Tasmania,fledgling release + mainland release,current range ,7,1,1,100,0,0.15,0.5,108471371.5
+S,Tasmania,fledgling release + mainland release,current range ,7,1,1,50,0,0.2,0.45,64707721.5
+S,Tasmania,mixed release strategy w/out fire,current range ,8,0,1,100,0,0.05,0.14,105910100
+S,Tasmania,mixed release strategy w/out fire,current range ,8,0,1,50,0,0.05,0.1,62855825
+S,Tasmania,mixed release strategy w/out PBFV,current range ,9,1,0,100,0,0.2,0.33,93657746.5
+S,Tasmania,mixed release strategy w/out PBFV,current range ,9,1,0,50,0,0.2,0.35,61953471.5
+S,Tasmania,focus wild born young w/out fire,current range ,10,0,1,100,0,0.05,0.1,99798400
+S,Tasmania,focus wild born young w/out fire,current range ,10,0,1,50,0,0.05,0.1,58401525
+T,Tasmania,No action + no captive population,no action,0,0,0,0,0,0.05,0.1,0
+T,Tasmania,mixed release strategy,current range ,1,1,1,100,0.25,0.64,0.9,107322746.5
+T,Tasmania,mixed release strategy,current range ,1,1,1,50,0.1,0.5,0.8,64653471.5
+T,Tasmania,focus wild born young,current range ,2,1,1,100,0.2,0.55,0.8,101596046.5
+T,Tasmania,focus wild born young,current range ,2,1,1,50,0.2,0.5,0.8,60199171.5
+T,Tasmania,focus wild born young + mainland release,current range ,3,1,1,100,0.3,0.5,0.86,110541246.5
+T,Tasmania,focus wild born young + mainland release,current range ,3,1,1,50,0.2,0.5,0.8,64926346.5
+T,Tasmania,focus high quality young leaving,current range ,4,1,1,100,0.2,0.7,0.95,96964696.5
+T,Tasmania,focus high quality young leaving,current range ,4,1,1,50,0.2,0.6,0.94,55539446.5
+T,Tasmania,focus high quality young leaving + mainland release,current range ,5,1,1,100,0.2,0.7,0.95,103519496.5
+T,Tasmania,focus high quality young leaving + mainland release,current range ,5,1,1,50,0.2,0.6,0.93,60304771.5
+T,Tasmania,fledgling release only,current range ,6,1,1,100,0.1,0.34,0.6,99993171.5
+T,Tasmania,fledgling release only,current range ,6,1,1,50,0.1,0.34,0.6,58459421.5
+T,Tasmania,fledgling release + mainland release,current range ,7,1,1,100,0.1,0.35,0.6,108471371.5
+T,Tasmania,fledgling release + mainland release,current range ,7,1,1,50,0.1,0.35,0.6,64707721.5
+T,Tasmania,mixed release strategy w/out fire,current range ,8,0,1,100,0,0.35,0.7,105910100
+T,Tasmania,mixed release strategy w/out fire,current range ,8,0,1,50,0,0.4,0.6,62855825
+T,Tasmania,mixed release strategy w/out PBFV,current range ,9,1,0,100,0.2,0.65,0.8,93657746.5
+T,Tasmania,mixed release strategy w/out PBFV,current range ,9,1,0,50,0.1,0.6,0.7,61953471.5
+T,Tasmania,focus wild born young w/out fire,current range ,10,0,1,100,0.15,0.45,0.7,99798400
+T,Tasmania,focus wild born young w/out fire,current range ,10,0,1,50,0.14,0.4,0.7,58401525
+U,Tasmania,No action + no captive population,no action,0,0,0,0,0,0,0,0
+U,Tasmania,mixed release strategy,current range ,1,1,1,100,0.4,0.5,0.9,107322746.5
+U,Tasmania,mixed release strategy,current range ,1,1,1,50,0,0.1,0.2,64653471.5
+U,Tasmania,focus wild born young,current range ,2,1,1,100,0.4,0.6,0.8,101596046.5
+U,Tasmania,focus wild born young,current range ,2,1,1,50,0,0.1,0.2,60199171.5
+U,Tasmania,focus wild born young + mainland release,current range ,3,1,1,100,0.2,0.31,0.5,110541246.5
+U,Tasmania,focus wild born young + mainland release,current range ,3,1,1,50,0,0.05,0.1,64926346.5
+U,Tasmania,focus high quality young leaving,current range ,4,1,1,100,0.3,0.5,0.7,96964696.5
+U,Tasmania,focus high quality young leaving,current range ,4,1,1,50,0,0.1,0.2,55539446.5
+U,Tasmania,focus high quality young leaving + mainland release,current range ,5,1,1,100,0.1,0.24,0.4,103519496.5
+U,Tasmania,focus high quality young leaving + mainland release,current range ,5,1,1,50,0,0.05,0.1,60304771.5
+U,Tasmania,fledgling release only,current range ,6,1,1,100,0.5,0.65,0.85,99993171.5
+U,Tasmania,fledgling release only,current range ,6,1,1,50,0.2,0.35,0.5,58459421.5
+U,Tasmania,fledgling release + mainland release,current range ,7,1,1,100,0.1,0.4,0.7,108471371.5
+U,Tasmania,fledgling release + mainland release,current range ,7,1,1,50,0.05,0.25,0.5,64707721.5
+U,Tasmania,mixed release strategy w/out fire,current range ,8,0,1,100,0.2,0.34,0.5,105910100
+U,Tasmania,mixed release strategy w/out fire,current range ,8,0,1,50,0,0.05,0.1,62855825
+U,Tasmania,mixed release strategy w/out PBFV,current range ,9,1,0,100,0.35,0.5,NA,93657746.5
+U,Tasmania,mixed release strategy w/out PBFV,current range ,9,1,0,50,0,0.1,0.2,61953471.5
+U,Tasmania,focus wild born young w/out fire,current range ,10,0,1,100,0.2,0.35,0.5,99798400
+U,Tasmania,focus wild born young w/out fire,current range ,10,0,1,50,0,0.05,0.1,58401525
+V,Tasmania,No action + no captive population,no action,0,0,0,0,0.12,0.2,0.26,0
+V,Tasmania,mixed release strategy,current range ,1,1,1,100,0.3,0.35,0.4,107322746.5
+V,Tasmania,mixed release strategy,current range ,1,1,1,50,0.15,0.25,0.35,64653471.5
+V,Tasmania,focus wild born young,current range ,2,1,1,100,0.24,0.55,0.9,101596046.5
+V,Tasmania,focus wild born young,current range ,2,1,1,50,0.24,0.52,0.8,60199171.5
+V,Tasmania,focus wild born young + mainland release,current range ,3,1,1,100,0.25,0.4,0.87,110541246.5
+V,Tasmania,focus wild born young + mainland release,current range ,3,1,1,50,0.15,0.35,0.66,64926346.5
+V,Tasmania,focus high quality young leaving,current range ,4,1,1,100,0.22,0.54,0.91,96964696.5
+V,Tasmania,focus high quality young leaving,current range ,4,1,1,50,0.25,0.55,0.9,55539446.5
+V,Tasmania,focus high quality young leaving + mainland release,current range ,5,1,1,100,0.33,0.55,0.75,103519496.5
+V,Tasmania,focus high quality young leaving + mainland release,current range ,5,1,1,50,0.26,0.5,0.7,60304771.5
+V,Tasmania,fledgling release only,current range ,6,1,1,100,0.45,0.67,0.87,99993171.5
+V,Tasmania,fledgling release only,current range ,6,1,1,50,0.4,0.6,0.84,58459421.5
+V,Tasmania,fledgling release + mainland release,current range ,7,1,1,100,0.4,0.7,0.9,108471371.5
+V,Tasmania,fledgling release + mainland release,current range ,7,1,1,50,0.3,0.6,0.9,64707721.5
+V,Tasmania,mixed release strategy w/out fire,current range ,8,0,1,100,0.38,0.49,0.6,105910100
+V,Tasmania,mixed release strategy w/out fire,current range ,8,0,1,50,0.4,0.5,0.6,62855825
+V,Tasmania,mixed release strategy w/out PBFV,current range ,9,1,0,100,NA,NA,NA,93657746.5
+V,Tasmania,mixed release strategy w/out PBFV,current range ,9,1,0,50,NA,NA,NA,61953471.5
+V,Tasmania,focus wild born young w/out fire,current range ,10,0,1,100,0.24,0.45,0.64,99798400
+V,Tasmania,focus wild born young w/out fire,current range ,10,0,1,50,0.1,0.2,0.4,58401525
+A,Mainland,No action + no captive population,no action,0,0,0,0,0,0,0,0
+A,Mainland,mixed release strategy,current range ,1,1,1,100,0,0.15,0.5,107322746.5
+A,Mainland,mixed release strategy,current range ,1,1,1,50,0,0.05,0.3,64653471.5
+A,Mainland,focus wild born young,current range ,2,1,1,100,0,0.2,0.5,101596046.5
+A,Mainland,focus wild born young,current range ,2,1,1,50,0,0.1,0.5,60199171.5
+A,Mainland,focus wild born young + mainland release,current range ,3,1,1,100,0,0.4,0.7,110541246.5
+A,Mainland,focus wild born young + mainland release,current range ,3,1,1,50,0,0.3,0.6,64926346.5
+A,Mainland,focus high quality young leaving,current range ,4,1,1,100,0.2,0.4,0.8,96964696.5
+A,Mainland,focus high quality young leaving,current range ,4,1,1,50,0.1,NA,0.6,55539446.5
+A,Mainland,focus high quality young leaving + mainland release,current range ,5,1,1,100,0.3,0.5,0.95,103519496.5
+A,Mainland,focus high quality young leaving + mainland release,current range ,5,1,1,50,0.3,0.4,0.8,60304771.5
+A,Mainland,fledgling release only,current range ,6,1,1,100,0.2,0.35,0.5,99993171.5
+A,Mainland,fledgling release only,current range ,6,1,1,50,0.1,0.2,0.3,58459421.5
+A,Mainland,fledgling release + mainland release,current range ,7,1,1,100,0.3,0.5,0.6,108471371.5
+A,Mainland,fledgling release + mainland release,current range ,7,1,1,50,0.25,0.5,0.6,64707721.5
+A,Mainland,mixed release strategy w/out fire,current range ,8,0,1,100,0,0.1,0.4,105910100
+A,Mainland,mixed release strategy w/out fire,current range ,8,0,1,50,0,0.05,0.3,62855825
+A,Mainland,mixed release strategy w/out PBFV,current range ,9,1,0,100,0,0.15,0.5,93657746.5
+A,Mainland,mixed release strategy w/out PBFV,current range ,9,1,0,50,0,0.05,0.3,61953471.5
+A,Mainland,focus wild born young w/out fire,current range ,10,0,1,100,0,0.2,0.4,99798400
+A,Mainland,focus wild born young w/out fire,current range ,10,0,1,50,0,NA,0.4,58401525
+B,Mainland,No action + no captive population,no action,0,0,0,0,0,0,0,0
+B,Mainland,mixed release strategy,current range ,1,1,1,100,0,0.15,0.3,107322746.5
+B,Mainland,mixed release strategy,current range ,1,1,1,50,0,0.1,0.2,64653471.5
+B,Mainland,focus wild born young,current range ,2,1,1,100,0,0.15,0.3,101596046.5
+B,Mainland,focus wild born young,current range ,2,1,1,50,0,0.05,0.1,60199171.5
+B,Mainland,focus wild born young + mainland release,current range ,3,1,1,100,0,0.15,0.3,110541246.5
+B,Mainland,focus wild born young + mainland release,current range ,3,1,1,50,0,0.1,0.2,64926346.5
+B,Mainland,focus high quality young leaving,current range ,4,1,1,100,0,0.2,0.4,96964696.5
+B,Mainland,focus high quality young leaving,current range ,4,1,1,50,0,0.1,0.2,55539446.5
+B,Mainland,focus high quality young leaving + mainland release,current range ,5,1,1,100,0,0.15,0.3,103519496.5
+B,Mainland,focus high quality young leaving + mainland release,current range ,5,1,1,50,0,0.1,0.2,60304771.5
+B,Mainland,fledgling release only,current range ,6,1,1,100,0,0.2,0.4,99993171.5
+B,Mainland,fledgling release only,current range ,6,1,1,50,0,0.15,0.25,58459421.5
+B,Mainland,fledgling release + mainland release,current range ,7,1,1,100,0,0.2,0.4,108471371.5
+B,Mainland,fledgling release + mainland release,current range ,7,1,1,50,0,0.1,0.2,64707721.5
+B,Mainland,mixed release strategy w/out fire,current range ,8,0,1,100,0,0.15,0.3,105910100
+B,Mainland,mixed release strategy w/out fire,current range ,8,0,1,50,0,0.1,0.2,62855825
+B,Mainland,mixed release strategy w/out PBFV,current range ,9,1,0,100,0,0.15,0.3,93657746.5
+B,Mainland,mixed release strategy w/out PBFV,current range ,9,1,0,50,0,0.1,0.25,61953471.5
+B,Mainland,focus wild born young w/out fire,current range ,10,0,1,100,0,0.15,0.3,99798400
+B,Mainland,focus wild born young w/out fire,current range ,10,0,1,50,0,0.05,0.1,58401525
+C,Mainland,No action + no captive population,no action,0,0,0,0,0,0,0,0
+C,Mainland,mixed release strategy,current range ,1,1,1,100,0.3,0.5,0.6,107322746.5
+C,Mainland,mixed release strategy,current range ,1,1,1,50,0.2,0.4,0.6,64653471.5
+C,Mainland,focus wild born young,current range ,2,1,1,100,0.2,0.3,0.4,101596046.5
+C,Mainland,focus wild born young,current range ,2,1,1,50,0.1,0.3,0.4,60199171.5
+C,Mainland,focus wild born young + mainland release,current range ,3,1,1,100,0.2,0.3,0.4,110541246.5
+C,Mainland,focus wild born young + mainland release,current range ,3,1,1,50,0.1,0.2,0.3,64926346.5
+C,Mainland,focus high quality young leaving,current range ,4,1,1,100,0.1,0.2,0.35,96964696.5
+C,Mainland,focus high quality young leaving,current range ,4,1,1,50,0.1,0.2,0.3,55539446.5
+C,Mainland,focus high quality young leaving + mainland release,current range ,5,1,1,100,0.3,0.5,0.6,103519496.5
+C,Mainland,focus high quality young leaving + mainland release,current range ,5,1,1,50,0.1,0.3,0.4,60304771.5
+C,Mainland,fledgling release only,current range ,6,1,1,100,0,0.1,0.2,99993171.5
+C,Mainland,fledgling release only,current range ,6,1,1,50,0,0.1,0.2,58459421.5
+C,Mainland,fledgling release + mainland release,current range ,7,1,1,100,0.2,0.3,0.5,108471371.5
+C,Mainland,fledgling release + mainland release,current range ,7,1,1,50,0,0.1,0.2,64707721.5
+C,Mainland,mixed release strategy w/out fire,current range ,8,0,1,100,0,0.05,0.2,105910100
+C,Mainland,mixed release strategy w/out fire,current range ,8,0,1,50,0,0.05,0.2,62855825
+C,Mainland,mixed release strategy w/out PBFV,current range ,9,1,0,100,0.3,0.5,0.6,93657746.5
+C,Mainland,mixed release strategy w/out PBFV,current range ,9,1,0,50,0.3,0.5,0.6,61953471.5
+C,Mainland,focus wild born young w/out fire,current range ,10,0,1,100,0,0,0.1,99798400
+C,Mainland,focus wild born young w/out fire,current range ,10,0,1,50,0,0,0.1,58401525
+D,Mainland,No action + no captive population,no action,0,0,0,0,0,0.1,0.2,0
+D,Mainland,mixed release strategy,current range ,1,1,1,100,0.5,0.65,0.8,107322746.5
+D,Mainland,mixed release strategy,current range ,1,1,1,50,0.3,0.4,0.55,64653471.5
+D,Mainland,focus wild born young,current range ,2,1,1,100,0.25,0.38,0.51,101596046.5
+D,Mainland,focus wild born young,current range ,2,1,1,50,0.15,0.25,0.38,60199171.5
+D,Mainland,focus wild born young + mainland release,current range ,3,1,1,100,0.35,0.45,0.55,110541246.5
+D,Mainland,focus wild born young + mainland release,current range ,3,1,1,50,0.2,0.35,0.55,64926346.5
+D,Mainland,focus high quality young leaving,current range ,4,1,1,100,0.21,0.34,0.49,96964696.5
+D,Mainland,focus high quality young leaving,current range ,4,1,1,50,0.15,0.25,0.35,55539446.5
+D,Mainland,focus high quality young leaving + mainland release,current range ,5,1,1,100,0.3,0.4,0.5,103519496.5
+D,Mainland,focus high quality young leaving + mainland release,current range ,5,1,1,50,0.2,0.3,0.4,60304771.5
+D,Mainland,fledgling release only,current range ,6,1,1,100,0.14,0.25,0.4,99993171.5
+D,Mainland,fledgling release only,current range ,6,1,1,50,0.05,0.15,0.3,58459421.5
+D,Mainland,fledgling release + mainland release,current range ,7,1,1,100,NA,NA,NA,108471371.5
+D,Mainland,fledgling release + mainland release,current range ,7,1,1,50,0.1,0.2,0.34,64707721.5
+D,Mainland,mixed release strategy w/out fire,current range ,8,0,1,100,0.25,0.35,0.45,105910100
+D,Mainland,mixed release strategy w/out fire,current range ,8,0,1,50,0.15,0.25,0.35,62855825
+D,Mainland,mixed release strategy w/out PBFV,current range ,9,1,0,100,0.2,0.3,0.4,93657746.5
+D,Mainland,mixed release strategy w/out PBFV,current range ,9,1,0,50,0.1,0.2,0.3,61953471.5
+D,Mainland,focus wild born young w/out fire,current range ,10,0,1,100,0.3,0.45,0.57,99798400
+D,Mainland,focus wild born young w/out fire,current range ,10,0,1,50,0.1,0.26,0.45,58401525
+E,Mainland,No action + no captive population,no action,0,0,0,0,0,0.05,0.2,0
+E,Mainland,mixed release strategy,current range ,1,1,1,100,0.5,0.7,0.95,107322746.5
+E,Mainland,mixed release strategy,current range ,1,1,1,50,0.3,0.7,0.85,64653471.5
+E,Mainland,focus wild born young,current range ,2,1,1,100,0.05,0.1,0.25,101596046.5
+E,Mainland,focus wild born young,current range ,2,1,1,50,0,0.05,0.2,60199171.5
+E,Mainland,focus wild born young + mainland release,current range ,3,1,1,100,0.1,0.25,0.55,110541246.5
+E,Mainland,focus wild born young + mainland release,current range ,3,1,1,50,0,0.05,0.4,64926346.5
+E,Mainland,focus high quality young leaving,current range ,4,1,1,100,0.6,0.75,1,96964696.5
+E,Mainland,focus high quality young leaving,current range ,4,1,1,50,0.55,0.75,0.9,55539446.5
+E,Mainland,focus high quality young leaving + mainland release,current range ,5,1,1,100,0.5,0.75,0.9,103519496.5
+E,Mainland,focus high quality young leaving + mainland release,current range ,5,1,1,50,0.5,0.75,0.9,60304771.5
+E,Mainland,fledgling release only,current range ,6,1,1,100,0.8,0.9,1,99993171.5
+E,Mainland,fledgling release only,current range ,6,1,1,50,0.75,0.9,0.95,58459421.5
+E,Mainland,fledgling release + mainland release,current range ,7,1,1,100,0.8,0.9,1,108471371.5
+E,Mainland,fledgling release + mainland release,current range ,7,1,1,50,0.75,0.85,0.9,64707721.5
+E,Mainland,mixed release strategy w/out fire,current range ,8,0,1,100,0.25,0.5,0.75,105910100
+E,Mainland,mixed release strategy w/out fire,current range ,8,0,1,50,0.25,0.5,0.75,62855825
+E,Mainland,mixed release strategy w/out PBFV,current range ,9,1,0,100,0.1,0.6,0.9,93657746.5
+E,Mainland,mixed release strategy w/out PBFV,current range ,9,1,0,50,0.1,0.5,0.8,61953471.5
+E,Mainland,focus wild born young w/out fire,current range ,10,0,1,100,0.05,0.1,0.25,99798400
+E,Mainland,focus wild born young w/out fire,current range ,10,0,1,50,0,0.05,0.2,58401525
+F,Mainland,No action + no captive population,no action,0,0,0,0,0,0,0,0
+F,Mainland,mixed release strategy,current range ,1,1,1,100,0,0.05,0.1,107322746.5
+F,Mainland,mixed release strategy,current range ,1,1,1,50,0,0,0.05,64653471.5
+F,Mainland,focus wild born young,current range ,2,1,1,100,0,0.05,0.1,101596046.5
+F,Mainland,focus wild born young,current range ,2,1,1,50,0,0,0.05,60199171.5
+F,Mainland,focus wild born young + mainland release,current range ,3,1,1,100,0,0.05,0.1,110541246.5
+F,Mainland,focus wild born young + mainland release,current range ,3,1,1,50,0,0,0.05,64926346.5
+F,Mainland,focus high quality young leaving,current range ,4,1,1,100,0,0.05,0.1,96964696.5
+F,Mainland,focus high quality young leaving,current range ,4,1,1,50,0,0,0.05,55539446.5
+F,Mainland,focus high quality young leaving + mainland release,current range ,5,1,1,100,0,0.05,0.1,103519496.5
+F,Mainland,focus high quality young leaving + mainland release,current range ,5,1,1,50,0,0,0.05,60304771.5
+F,Mainland,fledgling release only,current range ,6,1,1,100,0,0.05,0.05,99993171.5
+F,Mainland,fledgling release only,current range ,6,1,1,50,0,0,0.05,58459421.5
+F,Mainland,fledgling release + mainland release,current range ,7,1,1,100,0,0.05,0.05,108471371.5
+F,Mainland,fledgling release + mainland release,current range ,7,1,1,50,0,0,0.05,64707721.5
+F,Mainland,mixed release strategy w/out fire,current range ,8,0,1,100,0,0,0,105910100
+F,Mainland,mixed release strategy w/out fire,current range ,8,0,1,50,0,0,0.05,62855825
+F,Mainland,mixed release strategy w/out PBFV,current range ,9,1,0,100,0,0,0.05,93657746.5
+F,Mainland,mixed release strategy w/out PBFV,current range ,9,1,0,50,0,0,0,61953471.5
+F,Mainland,focus wild born young w/out fire,current range ,10,0,1,100,0,0,0,99798400
+F,Mainland,focus wild born young w/out fire,current range ,10,0,1,50,0,0,0,58401525
+G,Mainland,No action + no captive population,no action,0,0,0,0,NA,NA,NA,0
+G,Mainland,mixed release strategy,current range ,1,1,1,100,0,0.11,0.21,107322746.5
+G,Mainland,mixed release strategy,current range ,1,1,1,50,0,0.12,0.2,64653471.5
+G,Mainland,focus wild born young,current range ,2,1,1,100,0,0.14,0.19,101596046.5
+G,Mainland,focus wild born young,current range ,2,1,1,50,0,0.11,0.19,60199171.5
+G,Mainland,focus wild born young + mainland release,current range ,3,1,1,100,0,0.11,0.18,110541246.5
+G,Mainland,focus wild born young + mainland release,current range ,3,1,1,50,0,0.12,0.19,64926346.5
+G,Mainland,focus high quality young leaving,current range ,4,1,1,100,0,0.4,0.65,96964696.5
+G,Mainland,focus high quality young leaving,current range ,4,1,1,50,0,0.3,0.5,55539446.5
+G,Mainland,focus high quality young leaving + mainland release,current range ,5,1,1,100,0,0.21,0.42,103519496.5
+G,Mainland,focus high quality young leaving + mainland release,current range ,5,1,1,50,0,0.2,0.36,60304771.5
+G,Mainland,fledgling release only,current range ,6,1,1,100,0,0.44,0.65,99993171.5
+G,Mainland,fledgling release only,current range ,6,1,1,50,0,0.34,0.54,58459421.5
+G,Mainland,fledgling release + mainland release,current range ,7,1,1,100,0,0.2,0.4,108471371.5
+G,Mainland,fledgling release + mainland release,current range ,7,1,1,50,0,0.15,0.3,64707721.5
+G,Mainland,mixed release strategy w/out fire,current range ,8,0,1,100,0,0,0.15,105910100
+G,Mainland,mixed release strategy w/out fire,current range ,8,0,1,50,0,0,0.12,62855825
+G,Mainland,mixed release strategy w/out PBFV,current range ,9,1,0,100,0,0.14,0.2,93657746.5
+G,Mainland,mixed release strategy w/out PBFV,current range ,9,1,0,50,0,0.11,0.19,61953471.5
+G,Mainland,focus wild born young w/out fire,current range ,10,0,1,100,0,0,0.14,99798400
+G,Mainland,focus wild born young w/out fire,current range ,10,0,1,50,0,0,0.12,58401525
+H,Mainland,No action + no captive population,no action,0,0,0,0,0,0.1,0.1,0
+H,Mainland,mixed release strategy,current range ,1,1,1,100,0.9,0.98,1,107322746.5
+H,Mainland,mixed release strategy,current range ,1,1,1,50,0.7,0.91,1,64653471.5
+H,Mainland,focus wild born young,current range ,2,1,1,100,0.1,0.6,0.8,101596046.5
+H,Mainland,focus wild born young,current range ,2,1,1,50,0.1,0.4,0.75,60199171.5
+H,Mainland,focus wild born young + mainland release,current range ,3,1,1,100,0.1,0.6,0.8,110541246.5
+H,Mainland,focus wild born young + mainland release,current range ,3,1,1,50,0.1,0.5,0.75,64926346.5
+H,Mainland,focus high quality young leaving,current range ,4,1,1,100,0.5,0.9,1,96964696.5
+H,Mainland,focus high quality young leaving,current range ,4,1,1,50,0.3,0.75,0.95,55539446.5
+H,Mainland,focus high quality young leaving + mainland release,current range ,5,1,1,100,0.55,0.85,1,103519496.5
+H,Mainland,focus high quality young leaving + mainland release,current range ,5,1,1,50,0.45,0.7,0.95,60304771.5
+H,Mainland,fledgling release only,current range ,6,1,1,100,0.75,0.9,1,99993171.5
+H,Mainland,fledgling release only,current range ,6,1,1,50,0.65,0.9,1,58459421.5
+H,Mainland,fledgling release + mainland release,current range ,7,1,1,100,0.7,0.85,1,108471371.5
+H,Mainland,fledgling release + mainland release,current range ,7,1,1,50,0.6,0.9,1,64707721.5
+H,Mainland,mixed release strategy w/out fire,current range ,8,0,1,100,0,0.5,0.7,105910100
+H,Mainland,mixed release strategy w/out fire,current range ,8,0,1,50,0,0.54,0.8,62855825
+H,Mainland,mixed release strategy w/out PBFV,current range ,9,1,0,100,0.9,0.95,1,93657746.5
+H,Mainland,mixed release strategy w/out PBFV,current range ,9,1,0,50,0.75,0.9,1,61953471.5
+H,Mainland,focus wild born young w/out fire,current range ,10,0,1,100,0,0.5,0.55,99798400
+H,Mainland,focus wild born young w/out fire,current range ,10,0,1,50,0,0.45,0.5,58401525
+I,Mainland,No action + no captive population,no action,0,0,0,0,0,0,0,0
+I,Mainland,mixed release strategy,current range ,1,1,1,100,0.05,NA,0.7,107322746.5
+I,Mainland,mixed release strategy,current range ,1,1,1,50,0.02,0.23,0.43,64653471.5
+I,Mainland,focus wild born young,current range ,2,1,1,100,0.2,0.8,0.9,101596046.5
+I,Mainland,focus wild born young,current range ,2,1,1,50,0.25,0.6,0.7,60199171.5
+I,Mainland,focus wild born young + mainland release,current range ,3,1,1,100,0.3,0.7,0.97,110541246.5
+I,Mainland,focus wild born young + mainland release,current range ,3,1,1,50,NA,NA,NA,64926346.5
+I,Mainland,focus high quality young leaving,current range ,4,1,1,100,0.39,0.82,0.91,96964696.5
+I,Mainland,focus high quality young leaving,current range ,4,1,1,50,0.3,0.75,0.84,55539446.5
+I,Mainland,focus high quality young leaving + mainland release,current range ,5,1,1,100,0.26,0.8,0.9,103519496.5
+I,Mainland,focus high quality young leaving + mainland release,current range ,5,1,1,50,0.2,0.7,0.8,60304771.5
+I,Mainland,fledgling release only,current range ,6,1,1,100,0.3,0.79,0.89,99993171.5
+I,Mainland,fledgling release only,current range ,6,1,1,50,0.2,0.7,0.81,58459421.5
+I,Mainland,fledgling release + mainland release,current range ,7,1,1,100,0.29,0.8,0.94,108471371.5
+I,Mainland,fledgling release + mainland release,current range ,7,1,1,50,0.29,0.71,0.79,64707721.5
+I,Mainland,mixed release strategy w/out fire,current range ,8,0,1,100,NA,NA,NA,105910100
+I,Mainland,mixed release strategy w/out fire,current range ,8,0,1,50,0,0.1,0.2,62855825
+I,Mainland,mixed release strategy w/out PBFV,current range ,9,1,0,100,0.15,0.8,0.85,93657746.5
+I,Mainland,mixed release strategy w/out PBFV,current range ,9,1,0,50,0.1,0.3,0.5,61953471.5
+I,Mainland,focus wild born young w/out fire,current range ,10,0,1,100,0.2,0.56,0.85,99798400
+I,Mainland,focus wild born young w/out fire,current range ,10,0,1,50,0.1,0.5,0.8,58401525
+J,Mainland,No action + no captive population,no action,0,0,0,0,0,0,0.1,0
+J,Mainland,mixed release strategy,current range ,1,1,1,100,0.4,0.64,0.8,107322746.5
+J,Mainland,mixed release strategy,current range ,1,1,1,50,0.4,0.65,0.8,64653471.5
+J,Mainland,focus wild born young,current range ,2,1,1,100,0.4,NA,0.7,101596046.5
+J,Mainland,focus wild born young,current range ,2,1,1,50,0.4,NA,0.7,60199171.5
+J,Mainland,focus wild born young + mainland release,current range ,3,1,1,100,0.5,0.65,NA,110541246.5
+J,Mainland,focus wild born young + mainland release,current range ,3,1,1,50,0.5,0.65,0.8,64926346.5
+J,Mainland,focus high quality young leaving,current range ,4,1,1,100,0.45,0.65,0.85,96964696.5
+J,Mainland,focus high quality young leaving,current range ,4,1,1,50,0.4,0.63,0.8,55539446.5
+J,Mainland,focus high quality young leaving + mainland release,current range ,5,1,1,100,0.45,0.65,0.85,103519496.5
+J,Mainland,focus high quality young leaving + mainland release,current range ,5,1,1,50,0.5,0.65,0.8,60304771.5
+J,Mainland,fledgling release only,current range ,6,1,1,100,0.4,0.56,0.7,99993171.5
+J,Mainland,fledgling release only,current range ,6,1,1,50,0.4,0.55,0.7,58459421.5
+J,Mainland,fledgling release + mainland release,current range ,7,1,1,100,0.25,0.52,0.65,108471371.5
+J,Mainland,fledgling release + mainland release,current range ,7,1,1,50,0.2,0.5,0.6,64707721.5
+J,Mainland,mixed release strategy w/out fire,current range ,8,0,1,100,0.4,0.6,0.8,105910100
+J,Mainland,mixed release strategy w/out fire,current range ,8,0,1,50,0.4,0.6,0.8,62855825
+J,Mainland,mixed release strategy w/out PBFV,current range ,9,1,0,100,0.2,0.35,0.5,93657746.5
+J,Mainland,mixed release strategy w/out PBFV,current range ,9,1,0,50,0.2,0.35,0.5,61953471.5
+J,Mainland,focus wild born young w/out fire,current range ,10,0,1,100,0.4,0.55,0.7,99798400
+J,Mainland,focus wild born young w/out fire,current range ,10,0,1,50,0.4,0.56,0.7,58401525
+K,Mainland,No action + no captive population,no action,0,0,0,0,0,0.05,0.1,0
+K,Mainland,mixed release strategy,current range ,1,1,1,100,0.3,0.5,0.7,107322746.5
+K,Mainland,mixed release strategy,current range ,1,1,1,50,0.3,0.5,0.7,64653471.5
+K,Mainland,focus wild born young,current range ,2,1,1,100,0.3,0.5,0.7,101596046.5
+K,Mainland,focus wild born young,current range ,2,1,1,50,0.3,0.5,0.7,60199171.5
+K,Mainland,focus wild born young + mainland release,current range ,3,1,1,100,0.3,0.5,0.7,110541246.5
+K,Mainland,focus wild born young + mainland release,current range ,3,1,1,50,0.3,0.5,0.7,64926346.5
+K,Mainland,focus high quality young leaving,current range ,4,1,1,100,0.3,0.5,0.7,96964696.5
+K,Mainland,focus high quality young leaving,current range ,4,1,1,50,0.3,0.5,0.7,55539446.5
+K,Mainland,focus high quality young leaving + mainland release,current range ,5,1,1,100,0.25,0.5,0.7,103519496.5
+K,Mainland,focus high quality young leaving + mainland release,current range ,5,1,1,50,0.25,0.5,0.7,60304771.5
+K,Mainland,fledgling release only,current range ,6,1,1,100,0,0.3,0.5,99993171.5
+K,Mainland,fledgling release only,current range ,6,1,1,50,0,0.3,0.5,58459421.5
+K,Mainland,fledgling release + mainland release,current range ,7,1,1,100,0,0.25,0.5,108471371.5
+K,Mainland,fledgling release + mainland release,current range ,7,1,1,50,0,0.25,0.5,64707721.5
+K,Mainland,mixed release strategy w/out fire,current range ,8,0,1,100,0,0.3,0.45,105910100
+K,Mainland,mixed release strategy w/out fire,current range ,8,0,1,50,0,0.3,0.45,62855825
+K,Mainland,mixed release strategy w/out PBFV,current range ,9,1,0,100,0,0.1,0.2,93657746.5
+K,Mainland,mixed release strategy w/out PBFV,current range ,9,1,0,50,0,0.1,0.2,61953471.5
+K,Mainland,focus wild born young w/out fire,current range ,10,0,1,100,0.3,0.5,0.7,99798400
+K,Mainland,focus wild born young w/out fire,current range ,10,0,1,50,0.3,0.5,0.7,58401525
+L,Mainland,No action + no captive population,no action,0,0,0,0,0,0,0,0
+L,Mainland,mixed release strategy,current range ,1,1,1,100,0,0.1,0.2,107322746.5
+L,Mainland,mixed release strategy,current range ,1,1,1,50,0,0.1,0.1,64653471.5
+L,Mainland,focus wild born young,current range ,2,1,1,100,0,0.1,0.2,101596046.5
+L,Mainland,focus wild born young,current range ,2,1,1,50,0,0.05,0.1,60199171.5
+L,Mainland,focus wild born young + mainland release,current range ,3,1,1,100,0,0.1,0.2,110541246.5
+L,Mainland,focus wild born young + mainland release,current range ,3,1,1,50,0,0.05,0.1,64926346.5
+L,Mainland,focus high quality young leaving,current range ,4,1,1,100,0,0.15,0.3,96964696.5
+L,Mainland,focus high quality young leaving,current range ,4,1,1,50,0,0.05,0.1,55539446.5
+L,Mainland,focus high quality young leaving + mainland release,current range ,5,1,1,100,0,0.1,0.3,103519496.5
+L,Mainland,focus high quality young leaving + mainland release,current range ,5,1,1,50,0,0.05,0.1,60304771.5
+L,Mainland,fledgling release only,current range ,6,1,1,100,0,0.1,0.3,99993171.5
+L,Mainland,fledgling release only,current range ,6,1,1,50,0,0.05,0.1,58459421.5
+L,Mainland,fledgling release + mainland release,current range ,7,1,1,100,0,0.1,0.3,108471371.5
+L,Mainland,fledgling release + mainland release,current range ,7,1,1,50,0,0.05,0.1,64707721.5
+L,Mainland,mixed release strategy w/out fire,current range ,8,0,1,100,0,0.05,0.1,105910100
+L,Mainland,mixed release strategy w/out fire,current range ,8,0,1,50,0,0.05,0.1,62855825
+L,Mainland,mixed release strategy w/out PBFV,current range ,9,1,0,100,0,0.05,0.1,93657746.5
+L,Mainland,mixed release strategy w/out PBFV,current range ,9,1,0,50,0,0.05,0.1,61953471.5
+L,Mainland,focus wild born young w/out fire,current range ,10,0,1,100,0,0.1,0.2,99798400
+L,Mainland,focus wild born young w/out fire,current range ,10,0,1,50,0,0.05,0.1,58401525
+M,Mainland,No action + no captive population,no action,0,0,0,0,0,0,0.05,0
+M,Mainland,mixed release strategy,current range ,1,1,1,100,0.5,0.7,1,107322746.5
+M,Mainland,mixed release strategy,current range ,1,1,1,50,0.4,0.65,1,64653471.5
+M,Mainland,focus wild born young,current range ,2,1,1,100,0.4,0.6,1,101596046.5
+M,Mainland,focus wild born young,current range ,2,1,1,50,0.3,0.55,1,60199171.5
+M,Mainland,focus wild born young + mainland release,current range ,3,1,1,100,0.3,0.6,1,110541246.5
+M,Mainland,focus wild born young + mainland release,current range ,3,1,1,50,0.3,0.55,1,64926346.5
+M,Mainland,focus high quality young leaving,current range ,4,1,1,100,0.4,0.7,1,96964696.5
+M,Mainland,focus high quality young leaving,current range ,4,1,1,50,0.4,0.6,1,55539446.5
+M,Mainland,focus high quality young leaving + mainland release,current range ,5,1,1,100,0.4,0.7,1,103519496.5
+M,Mainland,focus high quality young leaving + mainland release,current range ,5,1,1,50,0.4,0.59,1,60304771.5
+M,Mainland,fledgling release only,current range ,6,1,1,100,0.4,0.7,1,99993171.5
+M,Mainland,fledgling release only,current range ,6,1,1,50,0.5,0.7,1,58459421.5
+M,Mainland,fledgling release + mainland release,current range ,7,1,1,100,0.4,0.8,1,108471371.5
+M,Mainland,fledgling release + mainland release,current range ,7,1,1,50,0.5,0.7,1,64707721.5
+M,Mainland,mixed release strategy w/out fire,current range ,8,0,1,100,0.3,0.6,1,105910100
+M,Mainland,mixed release strategy w/out fire,current range ,8,0,1,50,0.2,0.45,1,62855825
+M,Mainland,mixed release strategy w/out PBFV,current range ,9,1,0,100,0.4,0.6,1,93657746.5
+M,Mainland,mixed release strategy w/out PBFV,current range ,9,1,0,50,0.3,0.5,1,61953471.5
+M,Mainland,focus wild born young w/out fire,current range ,10,0,1,100,0.2,0.5,1,99798400
+M,Mainland,focus wild born young w/out fire,current range ,10,0,1,50,0.2,0.4,1,58401525
+N,Mainland,No action + no captive population,no action,0,0,0,0,0,0.05,0.2,0
+N,Mainland,mixed release strategy,current range ,1,1,1,100,0.3,0.65,0.95,107322746.5
+N,Mainland,mixed release strategy,current range ,1,1,1,50,0.4,0.6,0.95,64653471.5
+N,Mainland,focus wild born young,current range ,2,1,1,100,0.1,0.45,0.65,101596046.5
+N,Mainland,focus wild born young,current range ,2,1,1,50,0.1,0.4,0.6,60199171.5
+N,Mainland,focus wild born young + mainland release,current range ,3,1,1,100,0.5,0.9,0.95,110541246.5
+N,Mainland,focus wild born young + mainland release,current range ,3,1,1,50,0.5,0.85,0.95,64926346.5
+N,Mainland,focus high quality young leaving,current range ,4,1,1,100,0.1,0.45,0.65,96964696.5
+N,Mainland,focus high quality young leaving,current range ,4,1,1,50,0.1,0.4,0.6,55539446.5
+N,Mainland,focus high quality young leaving + mainland release,current range ,5,1,1,100,0.5,0.9,0.95,103519496.5
+N,Mainland,focus high quality young leaving + mainland release,current range ,5,1,1,50,0.5,0.85,0.95,60304771.5
+N,Mainland,fledgling release only,current range ,6,1,1,100,0.1,0.45,0.65,99993171.5
+N,Mainland,fledgling release only,current range ,6,1,1,50,0.1,0.4,0.6,58459421.5
+N,Mainland,fledgling release + mainland release,current range ,7,1,1,100,0.3,0.8,0.9,108471371.5
+N,Mainland,fledgling release + mainland release,current range ,7,1,1,50,0.3,0.75,0.85,64707721.5
+N,Mainland,mixed release strategy w/out fire,current range ,8,0,1,100,0.35,0.6,0.95,105910100
+N,Mainland,mixed release strategy w/out fire,current range ,8,0,1,50,0.35,0.55,0.95,62855825
+N,Mainland,mixed release strategy w/out PBFV,current range ,9,1,0,100,0.2,0.7,0.9,93657746.5
+N,Mainland,mixed release strategy w/out PBFV,current range ,9,1,0,50,0.2,0.6,0.8,61953471.5
+N,Mainland,focus wild born young w/out fire,current range ,10,0,1,100,0.1,0.4,0.6,99798400
+N,Mainland,focus wild born young w/out fire,current range ,10,0,1,50,0.05,0.35,0.55,58401525
+O,Mainland,No action + no captive population,no action,0,0,0,0,0,0,0.1,0
+O,Mainland,mixed release strategy,current range ,1,1,1,100,0.4,0.75,1,107322746.5
+O,Mainland,mixed release strategy,current range ,1,1,1,50,0.1,0.3,0.7,64653471.5
+O,Mainland,focus wild born young,current range ,2,1,1,100,0.5,0.6,1,101596046.5
+O,Mainland,focus wild born young,current range ,2,1,1,50,0,0.4,0.75,60199171.5
+O,Mainland,focus wild born young + mainland release,current range ,3,1,1,100,0.4,0.5,1,110541246.5
+O,Mainland,focus wild born young + mainland release,current range ,3,1,1,50,0,0.2,0.5,64926346.5
+O,Mainland,focus high quality young leaving,current range ,4,1,1,100,0.7,0.85,1,96964696.5
+O,Mainland,focus high quality young leaving,current range ,4,1,1,50,0.1,0.5,0.8,55539446.5
+O,Mainland,focus high quality young leaving + mainland release,current range ,5,1,1,100,0.5,0.75,1,103519496.5
+O,Mainland,focus high quality young leaving + mainland release,current range ,5,1,1,50,0,0.5,0.7,60304771.5
+O,Mainland,fledgling release only,current range ,6,1,1,100,0.5,0.8,1,99993171.5
+O,Mainland,fledgling release only,current range ,6,1,1,50,0.2,0.6,0.7,58459421.5
+O,Mainland,fledgling release + mainland release,current range ,7,1,1,100,0.3,0.65,1,108471371.5
+O,Mainland,fledgling release + mainland release,current range ,7,1,1,50,0.1,0.25,0.6,64707721.5
+O,Mainland,mixed release strategy w/out fire,current range ,8,0,1,100,0.25,0.7,1,105910100
+O,Mainland,mixed release strategy w/out fire,current range ,8,0,1,50,0,0.25,0.65,62855825
+O,Mainland,mixed release strategy w/out PBFV,current range ,9,1,0,100,0.3,0.5,1,93657746.5
+O,Mainland,mixed release strategy w/out PBFV,current range ,9,1,0,50,0,0.2,0.6,61953471.5
+O,Mainland,focus wild born young w/out fire,current range ,10,0,1,100,0.45,0.55,1,99798400
+O,Mainland,focus wild born young w/out fire,current range ,10,0,1,50,0,0.4,0.65,58401525
+P,Mainland,No action + no captive population,no action,0,0,0,0,0,0.05,0.05,0
+P,Mainland,mixed release strategy,current range ,1,1,1,100,0.7,NA,1,107322746.5
+P,Mainland,mixed release strategy,current range ,1,1,1,50,0.15,0.6,1,64653471.5
+P,Mainland,focus wild born young,current range ,2,1,1,100,0.3,0.5,1,101596046.5
+P,Mainland,focus wild born young,current range ,2,1,1,50,0.1,0.3,1,60199171.5
+P,Mainland,focus wild born young + mainland release,current range ,3,1,1,100,0.5,0.6,1,110541246.5
+P,Mainland,focus wild born young + mainland release,current range ,3,1,1,50,0.4,0.5,1,64926346.5
+P,Mainland,focus high quality young leaving,current range ,4,1,1,100,0.25,0.35,1,96964696.5
+P,Mainland,focus high quality young leaving,current range ,4,1,1,50,0.1,0.3,1,55539446.5
+P,Mainland,focus high quality young leaving + mainland release,current range ,5,1,1,100,0.75,0.8,1,103519496.5
+P,Mainland,focus high quality young leaving + mainland release,current range ,5,1,1,50,0.6,0.65,1,60304771.5
+P,Mainland,fledgling release only,current range ,6,1,1,100,0.4,0.45,1,99993171.5
+P,Mainland,fledgling release only,current range ,6,1,1,50,0.2,0.3,1,58459421.5
+P,Mainland,fledgling release + mainland release,current range ,7,1,1,100,0.3,0.8,1,108471371.5
+P,Mainland,fledgling release + mainland release,current range ,7,1,1,50,0.2,0.7,1,64707721.5
+P,Mainland,mixed release strategy w/out fire,current range ,8,0,1,100,0.35,0.45,1,105910100
+P,Mainland,mixed release strategy w/out fire,current range ,8,0,1,50,0.05,0.3,1,62855825
+P,Mainland,mixed release strategy w/out PBFV,current range ,9,1,0,100,0,0.5,1,93657746.5
+P,Mainland,mixed release strategy w/out PBFV,current range ,9,1,0,50,0,0.4,1,61953471.5
+P,Mainland,focus wild born young w/out fire,current range ,10,0,1,100,0.1,0.2,1,99798400
+P,Mainland,focus wild born young w/out fire,current range ,10,0,1,50,0.1,0.2,1,58401525
+Q,Mainland,No action + no captive population,no action,0,0,0,0,0,0,0,0
+Q,Mainland,mixed release strategy,current range ,1,1,1,100,0.2,0.3,0.4,107322746.5
+Q,Mainland,mixed release strategy,current range ,1,1,1,50,0.2,0.3,0.4,64653471.5
+Q,Mainland,focus wild born young,current range ,2,1,1,100,0.15,0.25,0.35,101596046.5
+Q,Mainland,focus wild born young,current range ,2,1,1,50,0.1,0.2,0.3,60199171.5
+Q,Mainland,focus wild born young + mainland release,current range ,3,1,1,100,0.3,0.4,0.5,110541246.5
+Q,Mainland,focus wild born young + mainland release,current range ,3,1,1,50,0.2,0.3,0.4,64926346.5
+Q,Mainland,focus high quality young leaving,current range ,4,1,1,100,0.3,0.4,0.5,96964696.5
+Q,Mainland,focus high quality young leaving,current range ,4,1,1,50,0.25,0.35,0.45,55539446.5
+Q,Mainland,focus high quality young leaving + mainland release,current range ,5,1,1,100,0.35,0.45,0.55,103519496.5
+Q,Mainland,focus high quality young leaving + mainland release,current range ,5,1,1,50,0.3,0.4,0.5,60304771.5
+Q,Mainland,fledgling release only,current range ,6,1,1,100,0.35,0.45,0.55,99993171.5
+Q,Mainland,fledgling release only,current range ,6,1,1,50,0.25,0.35,0.45,58459421.5
+Q,Mainland,fledgling release + mainland release,current range ,7,1,1,100,0.35,0.45,0.55,108471371.5
+Q,Mainland,fledgling release + mainland release,current range ,7,1,1,50,0.25,0.35,0.45,64707721.5
+Q,Mainland,mixed release strategy w/out fire,current range ,8,0,1,100,0.15,0.25,0.35,105910100
+Q,Mainland,mixed release strategy w/out fire,current range ,8,0,1,50,0.1,0.2,0.3,62855825
+Q,Mainland,mixed release strategy w/out PBFV,current range ,9,1,0,100,0.3,0.4,0.5,93657746.5
+Q,Mainland,mixed release strategy w/out PBFV,current range ,9,1,0,50,0.2,0.3,0.4,61953471.5
+Q,Mainland,focus wild born young w/out fire,current range ,10,0,1,100,0.05,0.15,0.25,99798400
+Q,Mainland,focus wild born young w/out fire,current range ,10,0,1,50,0.05,0.15,0.25,58401525
+R,Mainland,No action + no captive population,no action,0,0,0,0,0,0.05,0.1,0
+R,Mainland,mixed release strategy,current range ,1,1,1,100,0,0.5,0.7,107322746.5
+R,Mainland,mixed release strategy,current range ,1,1,1,50,0,0.3,0.5,64653471.5
+R,Mainland,focus wild born young,current range ,2,1,1,100,0,0.6,0.7,101596046.5
+R,Mainland,focus wild born young,current range ,2,1,1,50,0,0.25,0.5,60199171.5
+R,Mainland,focus wild born young + mainland release,current range ,3,1,1,100,0,0.64,0.7,110541246.5
+R,Mainland,focus wild born young + mainland release,current range ,3,1,1,50,0,0.2,0.5,64926346.5
+R,Mainland,focus high quality young leaving,current range ,4,1,1,100,0,0.7,0.8,96964696.5
+R,Mainland,focus high quality young leaving,current range ,4,1,1,50,0,0.5,0.7,55539446.5
+R,Mainland,focus high quality young leaving + mainland release,current range ,5,1,1,100,0,0.75,0.8,103519496.5
+R,Mainland,focus high quality young leaving + mainland release,current range ,5,1,1,50,0,0.3,0.6,60304771.5
+R,Mainland,fledgling release only,current range ,6,1,1,100,0,0.6,0.8,99993171.5
+R,Mainland,fledgling release only,current range ,6,1,1,50,0,0.4,0.7,58459421.5
+R,Mainland,fledgling release + mainland release,current range ,7,1,1,100,0,0.7,0.9,108471371.5
+R,Mainland,fledgling release + mainland release,current range ,7,1,1,50,0,0.3,0.6,64707721.5
+R,Mainland,mixed release strategy w/out fire,current range ,8,0,1,100,0,0.3,0.5,105910100
+R,Mainland,mixed release strategy w/out fire,current range ,8,0,1,50,0,0.1,0.4,62855825
+R,Mainland,mixed release strategy w/out PBFV,current range ,9,1,0,100,0,0.46,0.7,93657746.5
+R,Mainland,mixed release strategy w/out PBFV,current range ,9,1,0,50,0,0.25,0.5,61953471.5
+R,Mainland,focus wild born young w/out fire,current range ,10,0,1,100,0,0.4,0.6,99798400
+R,Mainland,focus wild born young w/out fire,current range ,10,0,1,50,0,0.15,0.4,58401525
+S,Mainland,No action + no captive population,no action,0,0,0,0,0,0.05,0.1,0
+S,Mainland,mixed release strategy,current range ,1,1,1,100,0,0.13,0.48,107322746.5
+S,Mainland,mixed release strategy,current range ,1,1,1,50,0,0.13,0.44,64653471.5
+S,Mainland,focus wild born young,current range ,2,1,1,100,0,0.1,0.4,101596046.5
+S,Mainland,focus wild born young,current range ,2,1,1,50,0,0.1,0.41,60199171.5
+S,Mainland,focus wild born young + mainland release,current range ,3,1,1,100,0,0.16,0.55,110541246.5
+S,Mainland,focus wild born young + mainland release,current range ,3,1,1,50,0,0.16,0.5,64926346.5
+S,Mainland,focus high quality young leaving,current range ,4,1,1,100,0,0.1,0.25,96964696.5
+S,Mainland,focus high quality young leaving,current range ,4,1,1,50,0,0.1,0.3,55539446.5
+S,Mainland,focus high quality young leaving + mainland release,current range ,5,1,1,100,0,0.1,0.35,103519496.5
+S,Mainland,focus high quality young leaving + mainland release,current range ,5,1,1,50,0,0.1,0.35,60304771.5
+S,Mainland,fledgling release only,current range ,6,1,1,100,0,0.1,0.25,99993171.5
+S,Mainland,fledgling release only,current range ,6,1,1,50,0,0.1,0.25,58459421.5
+S,Mainland,fledgling release + mainland release,current range ,7,1,1,100,0,0.15,0.5,108471371.5
+S,Mainland,fledgling release + mainland release,current range ,7,1,1,50,0,0.2,0.45,64707721.5
+S,Mainland,mixed release strategy w/out fire,current range ,8,0,1,100,0,0.05,0.14,105910100
+S,Mainland,mixed release strategy w/out fire,current range ,8,0,1,50,0,0.05,0.1,62855825
+S,Mainland,mixed release strategy w/out PBFV,current range ,9,1,0,100,0,0.2,0.25,93657746.5
+S,Mainland,mixed release strategy w/out PBFV,current range ,9,1,0,50,0,0.2,0.3,61953471.5
+S,Mainland,focus wild born young w/out fire,current range ,10,0,1,100,0,0.05,0.1,99798400
+S,Mainland,focus wild born young w/out fire,current range ,10,0,1,50,0,0.05,0.1,58401525
+T,Mainland,No action + no captive population,no action,0,0,0,0,0,0.05,0.1,0
+T,Mainland,mixed release strategy,current range ,1,1,1,100,0.25,0.64,0.9,107322746.5
+T,Mainland,mixed release strategy,current range ,1,1,1,50,0.1,0.5,0.8,64653471.5
+T,Mainland,focus wild born young,current range ,2,1,1,100,0.2,0.55,0.8,101596046.5
+T,Mainland,focus wild born young,current range ,2,1,1,50,0.2,0.5,0.8,60199171.5
+T,Mainland,focus wild born young + mainland release,current range ,3,1,1,100,0.3,0.57,0.86,110541246.5
+T,Mainland,focus wild born young + mainland release,current range ,3,1,1,50,0.2,0.5,0.8,64926346.5
+T,Mainland,focus high quality young leaving,current range ,4,1,1,100,0.2,0.7,0.96,96964696.5
+T,Mainland,focus high quality young leaving,current range ,4,1,1,50,0.2,0.6,0.94,55539446.5
+T,Mainland,focus high quality young leaving + mainland release,current range ,5,1,1,100,0.2,0.7,0.95,103519496.5
+T,Mainland,focus high quality young leaving + mainland release,current range ,5,1,1,50,0.2,0.6,0.93,60304771.5
+T,Mainland,fledgling release only,current range ,6,1,1,100,0.1,0.34,0.6,99993171.5
+T,Mainland,fledgling release only,current range ,6,1,1,50,0.1,0.35,0.6,58459421.5
+T,Mainland,fledgling release + mainland release,current range ,7,1,1,100,0.1,0.35,0.6,108471371.5
+T,Mainland,fledgling release + mainland release,current range ,7,1,1,50,0.1,0.35,0.6,64707721.5
+T,Mainland,mixed release strategy w/out fire,current range ,8,0,1,100,0,0.35,0.7,105910100
+T,Mainland,mixed release strategy w/out fire,current range ,8,0,1,50,0,0.4,0.6,62855825
+T,Mainland,mixed release strategy w/out PBFV,current range ,9,1,0,100,0.2,0.65,0.8,93657746.5
+T,Mainland,mixed release strategy w/out PBFV,current range ,9,1,0,50,0.1,0.6,0.7,61953471.5
+T,Mainland,focus wild born young w/out fire,current range ,10,0,1,100,0.15,0.45,0.7,99798400
+T,Mainland,focus wild born young w/out fire,current range ,10,0,1,50,0.14,0.4,0.7,58401525
+U,Mainland,No action + no captive population,no action,0,0,0,0,0,0,0,0
+U,Mainland,mixed release strategy,current range ,1,1,1,100,0.4,0.5,0.9,107322746.5
+U,Mainland,mixed release strategy,current range ,1,1,1,50,0,0.1,0.2,64653471.5
+U,Mainland,focus wild born young,current range ,2,1,1,100,0.4,0.6,0.8,101596046.5
+U,Mainland,focus wild born young,current range ,2,1,1,50,0,0.1,0.2,60199171.5
+U,Mainland,focus wild born young + mainland release,current range ,3,1,1,100,0.2,0.31,0.5,110541246.5
+U,Mainland,focus wild born young + mainland release,current range ,3,1,1,50,0,0.05,0.1,64926346.5
+U,Mainland,focus high quality young leaving,current range ,4,1,1,100,0.3,0.5,0.7,96964696.5
+U,Mainland,focus high quality young leaving,current range ,4,1,1,50,0,0.1,0.2,55539446.5
+U,Mainland,focus high quality young leaving + mainland release,current range ,5,1,1,100,0.1,0.24,0.4,103519496.5
+U,Mainland,focus high quality young leaving + mainland release,current range ,5,1,1,50,0,0.05,0.1,60304771.5
+U,Mainland,fledgling release only,current range ,6,1,1,100,0.5,0.65,0.85,99993171.5
+U,Mainland,fledgling release only,current range ,6,1,1,50,0.2,0.35,0.5,58459421.5
+U,Mainland,fledgling release + mainland release,current range ,7,1,1,100,0.1,0.4,0.7,108471371.5
+U,Mainland,fledgling release + mainland release,current range ,7,1,1,50,0.05,0.25,0.5,64707721.5
+U,Mainland,mixed release strategy w/out fire,current range ,8,0,1,100,0.2,0.34,0.5,105910100
+U,Mainland,mixed release strategy w/out fire,current range ,8,0,1,50,0,0.05,0.1,62855825
+U,Mainland,mixed release strategy w/out PBFV,current range ,9,1,0,100,0.35,0.5,0.7,93657746.5
+U,Mainland,mixed release strategy w/out PBFV,current range ,9,1,0,50,0,0.1,0.2,61953471.5
+U,Mainland,focus wild born young w/out fire,current range ,10,0,1,100,0.2,0.35,0.5,99798400
+U,Mainland,focus wild born young w/out fire,current range ,10,0,1,50,0,0.05,0.1,58401525
+V,Mainland,No action + no captive population,no action,0,0,0,0,0.12,0.2,0.3,0
+V,Mainland,mixed release strategy,current range ,1,1,1,100,0.72,0.8,0.85,107322746.5
+V,Mainland,mixed release strategy,current range ,1,1,1,50,0.5,0.79,0.82,64653471.5
+V,Mainland,focus wild born young,current range ,2,1,1,100,0.22,0.41,0.61,101596046.5
+V,Mainland,focus wild born young,current range ,2,1,1,50,0.1,0.3,0.54,60199171.5
+V,Mainland,focus wild born young + mainland release,current range ,3,1,1,100,0.25,0.4,0.9,110541246.5
+V,Mainland,focus wild born young + mainland release,current range ,3,1,1,50,0.15,0.35,0.66,64926346.5
+V,Mainland,focus high quality young leaving,current range ,4,1,1,100,NA,NA,0.9,96964696.5
+V,Mainland,focus high quality young leaving,current range ,4,1,1,50,0.8,NA,NA,55539446.5
+V,Mainland,focus high quality young leaving + mainland release,current range ,5,1,1,100,0.66,0.85,0.95,103519496.5
+V,Mainland,focus high quality young leaving + mainland release,current range ,5,1,1,50,0.5,0.75,1,60304771.5
+V,Mainland,fledgling release only,current range ,6,1,1,100,0.05,0.3,0.57,99993171.5
+V,Mainland,fledgling release only,current range ,6,1,1,50,0.05,0.3,0.51,58459421.5
+V,Mainland,fledgling release + mainland release,current range ,7,1,1,100,0.4,0.7,0.93,108471371.5
+V,Mainland,fledgling release + mainland release,current range ,7,1,1,50,0.3,0.6,0.9,64707721.5
+V,Mainland,mixed release strategy w/out fire,current range ,8,0,1,100,0.15,0.21,0.31,105910100
+V,Mainland,mixed release strategy w/out fire,current range ,8,0,1,50,0.05,0.3,0.4,62855825
+V,Mainland,mixed release strategy w/out PBFV,current range ,9,1,0,100,NA,NA,NA,93657746.5
+V,Mainland,mixed release strategy w/out PBFV,current range ,9,1,0,50,NA,NA,NA,61953471.5
+V,Mainland,focus wild born young w/out fire,current range ,10,0,1,100,0.15,0.25,0.36,99798400
+V,Mainland,focus wild born young w/out fire,current range ,10,0,1,50,0.05,0.15,0.25,58401525
+A,In the wild,No action + no captive population,no action,0,0,0,0,0,0,0,0
+A,In the wild,mixed release strategy,current range ,1,1,1,100,0,0.15,0.5,107322746.5
+A,In the wild,mixed release strategy,current range ,1,1,1,50,0,0.05,0.25,64653471.5
+A,In the wild,focus wild born young,current range ,2,1,1,100,0,0.2,0.5,101596046.5
+A,In the wild,focus wild born young,current range ,2,1,1,50,0,0.1,0.4,60199171.5
+A,In the wild,focus wild born young + mainland release,current range ,3,1,1,100,0,0.3,0.6,110541246.5
+A,In the wild,focus wild born young + mainland release,current range ,3,1,1,50,0,0.3,0.6,64926346.5
+A,In the wild,focus high quality young leaving,current range ,4,1,1,100,0.2,0.4,0.8,96964696.5
+A,In the wild,focus high quality young leaving,current range ,4,1,1,50,0.1,0.4,0.6,55539446.5
+A,In the wild,focus high quality young leaving + mainland release,current range ,5,1,1,100,0.25,0.5,0.95,103519496.5
+A,In the wild,focus high quality young leaving + mainland release,current range ,5,1,1,50,0.2,0.5,0.7,60304771.5
+A,In the wild,fledgling release only,current range ,6,1,1,100,0.2,0.35,0.49,99993171.5
+A,In the wild,fledgling release only,current range ,6,1,1,50,0.1,0.2,0.3,58459421.5
+A,In the wild,fledgling release + mainland release,current range ,7,1,1,100,0.3,0.5,0.6,108471371.5
+A,In the wild,fledgling release + mainland release,current range ,7,1,1,50,0.25,0.5,0.6,64707721.5
+A,In the wild,mixed release strategy w/out fire,current range ,8,0,1,100,0,0.1,0.4,105910100
+A,In the wild,mixed release strategy w/out fire,current range ,8,0,1,50,0,0.05,0.3,62855825
+A,In the wild,mixed release strategy w/out PBFV,current range ,9,1,0,100,0,0.15,0.5,93657746.5
+A,In the wild,mixed release strategy w/out PBFV,current range ,9,1,0,50,0,0.05,0.25,61953471.5
+A,In the wild,focus wild born young w/out fire,current range ,10,0,1,100,0,0.1,0.35,99798400
+A,In the wild,focus wild born young w/out fire,current range ,10,0,1,50,0,0.2,0.4,58401525
+B,In the wild,No action + no captive population,no action,0,0,0,0,0,0,0,0
+B,In the wild,mixed release strategy,current range ,1,1,1,100,0,0.2,0.4,107322746.5
+B,In the wild,mixed release strategy,current range ,1,1,1,50,0,0.1,0.2,64653471.5
+B,In the wild,focus wild born young,current range ,2,1,1,100,0,0.2,0.4,101596046.5
+B,In the wild,focus wild born young,current range ,2,1,1,50,0,0.2,0.4,60199171.5
+B,In the wild,focus wild born young + mainland release,current range ,3,1,1,100,0,0.2,0.4,110541246.5
+B,In the wild,focus wild born young + mainland release,current range ,3,1,1,50,0,0.2,0.4,64926346.5
+B,In the wild,focus high quality young leaving,current range ,4,1,1,100,0,0.2,0.4,96964696.5
+B,In the wild,focus high quality young leaving,current range ,4,1,1,50,0,0.1,0.2,55539446.5
+B,In the wild,focus high quality young leaving + mainland release,current range ,5,1,1,100,0,0.2,0.4,103519496.5
+B,In the wild,focus high quality young leaving + mainland release,current range ,5,1,1,50,0,0.1,0.2,60304771.5
+B,In the wild,fledgling release only,current range ,6,1,1,100,0,0.2,0.4,99993171.5
+B,In the wild,fledgling release only,current range ,6,1,1,50,0,0.15,0.25,58459421.5
+B,In the wild,fledgling release + mainland release,current range ,7,1,1,100,0,0.2,0.4,108471371.5
+B,In the wild,fledgling release + mainland release,current range ,7,1,1,50,0,0.1,0.2,64707721.5
+B,In the wild,mixed release strategy w/out fire,current range ,8,0,1,100,0,0.2,0.4,105910100
+B,In the wild,mixed release strategy w/out fire,current range ,8,0,1,50,0,0.1,0.2,62855825
+B,In the wild,mixed release strategy w/out PBFV,current range ,9,1,0,100,0,0.2,0.4,93657746.5
+B,In the wild,mixed release strategy w/out PBFV,current range ,9,1,0,50,0,0.1,0.2,61953471.5
+B,In the wild,focus wild born young w/out fire,current range ,10,0,1,100,0,0.2,0.4,99798400
+B,In the wild,focus wild born young w/out fire,current range ,10,0,1,50,0,0.2,0.4,58401525
+C,In the wild,No action + no captive population,no action,0,0,0,0,0,0,0,0
+C,In the wild,mixed release strategy,current range ,1,1,1,100,0.3,0.5,0.6,107322746.5
+C,In the wild,mixed release strategy,current range ,1,1,1,50,0.3,0.5,0.6,64653471.5
+C,In the wild,focus wild born young,current range ,2,1,1,100,0.3,0.5,0.6,101596046.5
+C,In the wild,focus wild born young,current range ,2,1,1,50,0.3,0.5,0.6,60199171.5
+C,In the wild,focus wild born young + mainland release,current range ,3,1,1,100,0.2,0.3,0.5,110541246.5
+C,In the wild,focus wild born young + mainland release,current range ,3,1,1,50,0.1,0.2,0.3,64926346.5
+C,In the wild,focus high quality young leaving,current range ,4,1,1,100,0.1,0.2,0.3,96964696.5
+C,In the wild,focus high quality young leaving,current range ,4,1,1,50,0.1,0.2,0.3,55539446.5
+C,In the wild,focus high quality young leaving + mainland release,current range ,5,1,1,100,0.4,0.5,0.6,103519496.5
+C,In the wild,focus high quality young leaving + mainland release,current range ,5,1,1,50,0.1,0.25,0.4,60304771.5
+C,In the wild,fledgling release only,current range ,6,1,1,100,0,0.1,0.2,99993171.5
+C,In the wild,fledgling release only,current range ,6,1,1,50,0,0.1,0.2,58459421.5
+C,In the wild,fledgling release + mainland release,current range ,7,1,1,100,0.3,0.5,0.6,108471371.5
+C,In the wild,fledgling release + mainland release,current range ,7,1,1,50,0.1,0.2,0.4,64707721.5
+C,In the wild,mixed release strategy w/out fire,current range ,8,0,1,100,0,0.1,0.2,105910100
+C,In the wild,mixed release strategy w/out fire,current range ,8,0,1,50,0,0,0.1,62855825
+C,In the wild,mixed release strategy w/out PBFV,current range ,9,1,0,100,0.3,0.5,0.6,93657746.5
+C,In the wild,mixed release strategy w/out PBFV,current range ,9,1,0,50,0,0.2,0.4,61953471.5
+C,In the wild,focus wild born young w/out fire,current range ,10,0,1,100,0,0.1,0.15,99798400
+C,In the wild,focus wild born young w/out fire,current range ,10,0,1,50,0,0,0.1,58401525
+D,In the wild,No action + no captive population,no action,0,0,0,0,0,0.1,0.2,0
+D,In the wild,mixed release strategy,current range ,1,1,1,100,0.5,0.65,0.8,107322746.5
+D,In the wild,mixed release strategy,current range ,1,1,1,50,0.3,0.4,0.55,64653471.5
+D,In the wild,focus wild born young,current range ,2,1,1,100,0.25,0.38,0.51,101596046.5
+D,In the wild,focus wild born young,current range ,2,1,1,50,0.15,0.25,0.38,60199171.5
+D,In the wild,focus wild born young + mainland release,current range ,3,1,1,100,0.33,0.46,0.56,110541246.5
+D,In the wild,focus wild born young + mainland release,current range ,3,1,1,50,0.2,0.35,0.55,64926346.5
+D,In the wild,focus high quality young leaving,current range ,4,1,1,100,0.26,0.36,0.5,96964696.5
+D,In the wild,focus high quality young leaving,current range ,4,1,1,50,0.2,0.26,0.4,55539446.5
+D,In the wild,focus high quality young leaving + mainland release,current range ,5,1,1,100,0.3,0.4,0.5,103519496.5
+D,In the wild,focus high quality young leaving + mainland release,current range ,5,1,1,50,0.2,0.3,0.4,60304771.5
+D,In the wild,fledgling release only,current range ,6,1,1,100,0.15,0.25,0.44,99993171.5
+D,In the wild,fledgling release only,current range ,6,1,1,50,0.05,0.15,0.3,58459421.5
+D,In the wild,fledgling release + mainland release,current range ,7,1,1,100,NA,NA,NA,108471371.5
+D,In the wild,fledgling release + mainland release,current range ,7,1,1,50,0.1,0.2,0.34,64707721.5
+D,In the wild,mixed release strategy w/out fire,current range ,8,0,1,100,0.25,0.35,0.45,105910100
+D,In the wild,mixed release strategy w/out fire,current range ,8,0,1,50,0.15,0.25,0.35,62855825
+D,In the wild,mixed release strategy w/out PBFV,current range ,9,1,0,100,0.2,0.3,0.4,93657746.5
+D,In the wild,mixed release strategy w/out PBFV,current range ,9,1,0,50,0.1,0.2,0.3,61953471.5
+D,In the wild,focus wild born young w/out fire,current range ,10,0,1,100,0.3,0.45,0.57,99798400
+D,In the wild,focus wild born young w/out fire,current range ,10,0,1,50,0.1,0.3,0.5,58401525
+E,In the wild,No action + no captive population,no action,0,0,0,0,0,0.05,0.2,0
+E,In the wild,mixed release strategy,current range ,1,1,1,100,0.6,0.8,0.95,107322746.5
+E,In the wild,mixed release strategy,current range ,1,1,1,50,0.5,0.7,0.85,64653471.5
+E,In the wild,focus wild born young,current range ,2,1,1,100,0,0.2,0.4,101596046.5
+E,In the wild,focus wild born young,current range ,2,1,1,50,0,0.2,0.35,60199171.5
+E,In the wild,focus wild born young + mainland release,current range ,3,1,1,100,0,0.2,0.4,110541246.5
+E,In the wild,focus wild born young + mainland release,current range ,3,1,1,50,0,0.2,0.35,64926346.5
+E,In the wild,focus high quality young leaving,current range ,4,1,1,100,0.6,0.8,1,96964696.5
+E,In the wild,focus high quality young leaving,current range ,4,1,1,50,0.6,0.75,0.9,55539446.5
+E,In the wild,focus high quality young leaving + mainland release,current range ,5,1,1,100,0.55,0.8,1,103519496.5
+E,In the wild,focus high quality young leaving + mainland release,current range ,5,1,1,50,0.55,0.8,1,60304771.5
+E,In the wild,fledgling release only,current range ,6,1,1,100,0.9,0.95,1,99993171.5
+E,In the wild,fledgling release only,current range ,6,1,1,50,0.8,0.9,1,58459421.5
+E,In the wild,fledgling release + mainland release,current range ,7,1,1,100,0.8,0.9,1,108471371.5
+E,In the wild,fledgling release + mainland release,current range ,7,1,1,50,0.7,0.85,0.95,64707721.5
+E,In the wild,mixed release strategy w/out fire,current range ,8,0,1,100,0.25,0.5,0.75,105910100
+E,In the wild,mixed release strategy w/out fire,current range ,8,0,1,50,0.25,0.5,0.75,62855825
+E,In the wild,mixed release strategy w/out PBFV,current range ,9,1,0,100,0.1,0.7,0.9,93657746.5
+E,In the wild,mixed release strategy w/out PBFV,current range ,9,1,0,50,0.1,0.5,0.8,61953471.5
+E,In the wild,focus wild born young w/out fire,current range ,10,0,1,100,0,0.2,0.4,99798400
+E,In the wild,focus wild born young w/out fire,current range ,10,0,1,50,0,0.2,0.35,58401525
+F,In the wild,No action + no captive population,no action,0,0,0,0,0,0,0,0
+F,In the wild,mixed release strategy,current range ,1,1,1,100,0,0.05,0.1,107322746.5
+F,In the wild,mixed release strategy,current range ,1,1,1,50,0,0,0.05,64653471.5
+F,In the wild,focus wild born young,current range ,2,1,1,100,0,0.05,0.1,101596046.5
+F,In the wild,focus wild born young,current range ,2,1,1,50,0,0.05,0.1,60199171.5
+F,In the wild,focus wild born young + mainland release,current range ,3,1,1,100,0,0.05,0.1,110541246.5
+F,In the wild,focus wild born young + mainland release,current range ,3,1,1,50,0,0.05,0.1,64926346.5
+F,In the wild,focus high quality young leaving,current range ,4,1,1,100,0,0.05,0.1,96964696.5
+F,In the wild,focus high quality young leaving,current range ,4,1,1,50,0,0.05,0.1,55539446.5
+F,In the wild,focus high quality young leaving + mainland release,current range ,5,1,1,100,0,0.05,0.1,103519496.5
+F,In the wild,focus high quality young leaving + mainland release,current range ,5,1,1,50,0,0.05,0.1,60304771.5
+F,In the wild,fledgling release only,current range ,6,1,1,100,0,0.05,0.05,99993171.5
+F,In the wild,fledgling release only,current range ,6,1,1,50,0,0,0.05,58459421.5
+F,In the wild,fledgling release + mainland release,current range ,7,1,1,100,0,0.05,0.05,108471371.5
+F,In the wild,fledgling release + mainland release,current range ,7,1,1,50,0,0,0.05,64707721.5
+F,In the wild,mixed release strategy w/out fire,current range ,8,0,1,100,0,0,0.05,105910100
+F,In the wild,mixed release strategy w/out fire,current range ,8,0,1,50,0,0,0.05,62855825
+F,In the wild,mixed release strategy w/out PBFV,current range ,9,1,0,100,0,0,0.05,93657746.5
+F,In the wild,mixed release strategy w/out PBFV,current range ,9,1,0,50,0,0,0,61953471.5
+F,In the wild,focus wild born young w/out fire,current range ,10,0,1,100,0,0,0,99798400
+F,In the wild,focus wild born young w/out fire,current range ,10,0,1,50,0,0,0,58401525
+G,In the wild,No action + no captive population,no action,0,0,0,0,NA,NA,NA,0
+G,In the wild,mixed release strategy,current range ,1,1,1,100,0,0.14,0.25,107322746.5
+G,In the wild,mixed release strategy,current range ,1,1,1,50,0,0.11,0.22,64653471.5
+G,In the wild,focus wild born young,current range ,2,1,1,100,0,0.1,0.25,101596046.5
+G,In the wild,focus wild born young,current range ,2,1,1,50,0,0.12,0.21,60199171.5
+G,In the wild,focus wild born young + mainland release,current range ,3,1,1,100,0,0.11,0.19,110541246.5
+G,In the wild,focus wild born young + mainland release,current range ,3,1,1,50,0,0.12,0.19,64926346.5
+G,In the wild,focus high quality young leaving,current range ,4,1,1,100,0,0.4,0.65,96964696.5
+G,In the wild,focus high quality young leaving,current range ,4,1,1,50,0,0.3,0.5,55539446.5
+G,In the wild,focus high quality young leaving + mainland release,current range ,5,1,1,100,0,0.21,0.42,103519496.5
+G,In the wild,focus high quality young leaving + mainland release,current range ,5,1,1,50,0,0.19,0.35,60304771.5
+G,In the wild,fledgling release only,current range ,6,1,1,100,0,0.44,0.65,99993171.5
+G,In the wild,fledgling release only,current range ,6,1,1,50,0,0.35,0.55,58459421.5
+G,In the wild,fledgling release + mainland release,current range ,7,1,1,100,0,0.2,0.38,108471371.5
+G,In the wild,fledgling release + mainland release,current range ,7,1,1,50,0,0.15,0.3,64707721.5
+G,In the wild,mixed release strategy w/out fire,current range ,8,0,1,100,0,0,0.11,105910100
+G,In the wild,mixed release strategy w/out fire,current range ,8,0,1,50,0,0,0.1,62855825
+G,In the wild,mixed release strategy w/out PBFV,current range ,9,1,0,100,0,0.14,0.24,93657746.5
+G,In the wild,mixed release strategy w/out PBFV,current range ,9,1,0,50,0,0.1,0.2,61953471.5
+G,In the wild,focus wild born young w/out fire,current range ,10,0,1,100,0,0,0.12,99798400
+G,In the wild,focus wild born young w/out fire,current range ,10,0,1,50,0,0,0.12,58401525
+H,In the wild,No action + no captive population,no action,0,0,0,0,0,0.01,0.1,0
+H,In the wild,mixed release strategy,current range ,1,1,1,100,0.9,0.98,1,107322746.5
+H,In the wild,mixed release strategy,current range ,1,1,1,50,0.7,0.91,1,64653471.5
+H,In the wild,focus wild born young,current range ,2,1,1,100,0.1,0.6,0.8,101596046.5
+H,In the wild,focus wild born young,current range ,2,1,1,50,0.1,0.45,0.75,60199171.5
+H,In the wild,focus wild born young + mainland release,current range ,3,1,1,100,0.1,0.6,0.8,110541246.5
+H,In the wild,focus wild born young + mainland release,current range ,3,1,1,50,0.1,0.5,0.75,64926346.5
+H,In the wild,focus high quality young leaving,current range ,4,1,1,100,0.55,0.9,1,96964696.5
+H,In the wild,focus high quality young leaving,current range ,4,1,1,50,0.3,0.75,0.95,55539446.5
+H,In the wild,focus high quality young leaving + mainland release,current range ,5,1,1,100,0.55,0.85,1,103519496.5
+H,In the wild,focus high quality young leaving + mainland release,current range ,5,1,1,50,0.4,0.7,0.95,60304771.5
+H,In the wild,fledgling release only,current range ,6,1,1,100,0.85,0.9,1,99993171.5
+H,In the wild,fledgling release only,current range ,6,1,1,50,0.8,0.85,1,58459421.5
+H,In the wild,fledgling release + mainland release,current range ,7,1,1,100,0.8,0.9,1,108471371.5
+H,In the wild,fledgling release + mainland release,current range ,7,1,1,50,0.75,0.85,1,64707721.5
+H,In the wild,mixed release strategy w/out fire,current range ,8,0,1,100,0,0.44,0.65,105910100
+H,In the wild,mixed release strategy w/out fire,current range ,8,0,1,50,0,0.45,0.75,62855825
+H,In the wild,mixed release strategy w/out PBFV,current range ,9,1,0,100,0.9,0.95,1,93657746.5
+H,In the wild,mixed release strategy w/out PBFV,current range ,9,1,0,50,0.75,0.9,1,61953471.5
+H,In the wild,focus wild born young w/out fire,current range ,10,0,1,100,0,0.5,0.55,99798400
+H,In the wild,focus wild born young w/out fire,current range ,10,0,1,50,0,0.45,0.5,58401525
+I,In the wild,No action + no captive population,no action,0,0,0,0,0,0,0,0
+I,In the wild,mixed release strategy,current range ,1,1,1,100,0.04,NA,0.5,107322746.5
+I,In the wild,mixed release strategy,current range ,1,1,1,50,0,0.14,0.36,64653471.5
+I,In the wild,focus wild born young,current range ,2,1,1,100,0.25,0.75,0.95,101596046.5
+I,In the wild,focus wild born young,current range ,2,1,1,50,0.2,0.49,0.8,60199171.5
+I,In the wild,focus wild born young + mainland release,current range ,3,1,1,100,0.3,0.75,0.95,110541246.5
+I,In the wild,focus wild born young + mainland release,current range ,3,1,1,50,NA,NA,NA,64926346.5
+I,In the wild,focus high quality young leaving,current range ,4,1,1,100,0.3,0.8,0.9,96964696.5
+I,In the wild,focus high quality young leaving,current range ,4,1,1,50,0.25,0.7,0.84,55539446.5
+I,In the wild,focus high quality young leaving + mainland release,current range ,5,1,1,100,0.2,0.75,0.85,103519496.5
+I,In the wild,focus high quality young leaving + mainland release,current range ,5,1,1,50,0.12,0.59,0.91,60304771.5
+I,In the wild,fledgling release only,current range ,6,1,1,100,0.15,0.7,0.85,99993171.5
+I,In the wild,fledgling release only,current range ,6,1,1,50,0.14,0.6,0.8,58459421.5
+I,In the wild,fledgling release + mainland release,current range ,7,1,1,100,0.2,0.8,0.9,108471371.5
+I,In the wild,fledgling release + mainland release,current range ,7,1,1,50,0.21,0.7,0.76,64707721.5
+I,In the wild,mixed release strategy w/out fire,current range ,8,0,1,100,NA,NA,NA,105910100
+I,In the wild,mixed release strategy w/out fire,current range ,8,0,1,50,0,0.05,0.1,62855825
+I,In the wild,mixed release strategy w/out PBFV,current range ,9,1,0,100,0.15,0.7,0.86,93657746.5
+I,In the wild,mixed release strategy w/out PBFV,current range ,9,1,0,50,0.1,0.25,0.45,61953471.5
+I,In the wild,focus wild born young w/out fire,current range ,10,0,1,100,0.2,0.5,0.85,99798400
+I,In the wild,focus wild born young w/out fire,current range ,10,0,1,50,0.11,0.39,0.74,58401525
+J,In the wild,No action + no captive population,no action,0,0,0,0,0,0,0,0
+J,In the wild,mixed release strategy,current range ,1,1,1,100,0.5,0.7,0.9,107322746.5
+J,In the wild,mixed release strategy,current range ,1,1,1,50,0.4,0.6,0.8,64653471.5
+J,In the wild,focus wild born young,current range ,2,1,1,100,0.5,NA,0.9,101596046.5
+J,In the wild,focus wild born young,current range ,2,1,1,50,0.45,NA,0.85,60199171.5
+J,In the wild,focus wild born young + mainland release,current range ,3,1,1,100,0.55,0.75,0.85,110541246.5
+J,In the wild,focus wild born young + mainland release,current range ,3,1,1,50,0.45,0.65,0.75,64926346.5
+J,In the wild,focus high quality young leaving,current range ,4,1,1,100,0.7,0.7,0.95,96964696.5
+J,In the wild,focus high quality young leaving,current range ,4,1,1,50,0.6,0.8,0.9,55539446.5
+J,In the wild,focus high quality young leaving + mainland release,current range ,5,1,1,100,0.7,0.86,0.95,103519496.5
+J,In the wild,focus high quality young leaving + mainland release,current range ,5,1,1,50,0.65,0.84,0.9,60304771.5
+J,In the wild,fledgling release only,current range ,6,1,1,100,0.75,0.8,0.95,99993171.5
+J,In the wild,fledgling release only,current range ,6,1,1,50,0.7,0.75,0.9,58459421.5
+J,In the wild,fledgling release + mainland release,current range ,7,1,1,100,0.4,0.8,0.95,108471371.5
+J,In the wild,fledgling release + mainland release,current range ,7,1,1,50,0.2,0.7,0.9,64707721.5
+J,In the wild,mixed release strategy w/out fire,current range ,8,0,1,100,0.25,0.35,0.55,105910100
+J,In the wild,mixed release strategy w/out fire,current range ,8,0,1,50,0.2,0.3,0.5,62855825
+J,In the wild,mixed release strategy w/out PBFV,current range ,9,1,0,100,0.15,0.24,0.4,93657746.5
+J,In the wild,mixed release strategy w/out PBFV,current range ,9,1,0,50,0.15,0.25,0.4,61953471.5
+J,In the wild,focus wild born young w/out fire,current range ,10,0,1,100,0.2,0.3,0.5,99798400
+J,In the wild,focus wild born young w/out fire,current range ,10,0,1,50,0.1,0.2,0.4,58401525
+K,In the wild,No action + no captive population,no action,0,0,0,0,0,0.05,0.1,0
+K,In the wild,mixed release strategy,current range ,1,1,1,100,0.3,0.5,0.7,107322746.5
+K,In the wild,mixed release strategy,current range ,1,1,1,50,0.3,0.5,0.7,64653471.5
+K,In the wild,focus wild born young,current range ,2,1,1,100,0.5,0.7,0.9,101596046.5
+K,In the wild,focus wild born young,current range ,2,1,1,50,0.5,0.7,0.9,60199171.5
+K,In the wild,focus wild born young + mainland release,current range ,3,1,1,100,0.4,0.6,0.8,110541246.5
+K,In the wild,focus wild born young + mainland release,current range ,3,1,1,50,0.4,0.6,0.8,64926346.5
+K,In the wild,focus high quality young leaving,current range ,4,1,1,100,0.3,0.5,0.7,96964696.5
+K,In the wild,focus high quality young leaving,current range ,4,1,1,50,0.3,0.5,0.7,55539446.5
+K,In the wild,focus high quality young leaving + mainland release,current range ,5,1,1,100,0.25,0.5,0.7,103519496.5
+K,In the wild,focus high quality young leaving + mainland release,current range ,5,1,1,50,0.25,0.5,0.7,60304771.5
+K,In the wild,fledgling release only,current range ,6,1,1,100,0,0.5,0.5,99993171.5
+K,In the wild,fledgling release only,current range ,6,1,1,50,0,0.5,0.7,58459421.5
+K,In the wild,fledgling release + mainland release,current range ,7,1,1,100,0,0.25,0.5,108471371.5
+K,In the wild,fledgling release + mainland release,current range ,7,1,1,50,0,0.25,0.5,64707721.5
+K,In the wild,mixed release strategy w/out fire,current range ,8,0,1,100,0,0.1,0.2,105910100
+K,In the wild,mixed release strategy w/out fire,current range ,8,0,1,50,0,0.1,0.2,62855825
+K,In the wild,mixed release strategy w/out PBFV,current range ,9,1,0,100,0,0.1,0.2,93657746.5
+K,In the wild,mixed release strategy w/out PBFV,current range ,9,1,0,50,0,0.1,0.2,61953471.5
+K,In the wild,focus wild born young w/out fire,current range ,10,0,1,100,0.4,0.6,0.8,99798400
+K,In the wild,focus wild born young w/out fire,current range ,10,0,1,50,0.4,0.6,0.8,58401525
+L,In the wild,No action + no captive population,no action,0,0,0,0,0,0,0,0
+L,In the wild,mixed release strategy,current range ,1,1,1,100,0,0.1,0.2,107322746.5
+L,In the wild,mixed release strategy,current range ,1,1,1,50,0,0.1,0.1,64653471.5
+L,In the wild,focus wild born young,current range ,2,1,1,100,0.1,0.1,0.25,101596046.5
+L,In the wild,focus wild born young,current range ,2,1,1,50,0,0.05,0.1,60199171.5
+L,In the wild,focus wild born young + mainland release,current range ,3,1,1,100,0,0.1,0.2,110541246.5
+L,In the wild,focus wild born young + mainland release,current range ,3,1,1,50,0,0.05,0.1,64926346.5
+L,In the wild,focus high quality young leaving,current range ,4,1,1,100,0,0.15,0.3,96964696.5
+L,In the wild,focus high quality young leaving,current range ,4,1,1,50,0,0.05,0.1,55539446.5
+L,In the wild,focus high quality young leaving + mainland release,current range ,5,1,1,100,0,0.1,0.3,103519496.5
+L,In the wild,focus high quality young leaving + mainland release,current range ,5,1,1,50,0,0.05,0.1,60304771.5
+L,In the wild,fledgling release only,current range ,6,1,1,100,0,0.1,0.3,99993171.5
+L,In the wild,fledgling release only,current range ,6,1,1,50,0,0.05,0.1,58459421.5
+L,In the wild,fledgling release + mainland release,current range ,7,1,1,100,0,0.1,0.3,108471371.5
+L,In the wild,fledgling release + mainland release,current range ,7,1,1,50,0,0.05,0.1,64707721.5
+L,In the wild,mixed release strategy w/out fire,current range ,8,0,1,100,0,0.1,0.2,105910100
+L,In the wild,mixed release strategy w/out fire,current range ,8,0,1,50,0,0.05,0.1,62855825
+L,In the wild,mixed release strategy w/out PBFV,current range ,9,1,0,100,0,0.1,0.2,93657746.5
+L,In the wild,mixed release strategy w/out PBFV,current range ,9,1,0,50,0,0.05,0.1,61953471.5
+L,In the wild,focus wild born young w/out fire,current range ,10,0,1,100,0,0.1,0.2,99798400
+L,In the wild,focus wild born young w/out fire,current range ,10,0,1,50,0,0.05,0.1,58401525
+M,In the wild,No action + no captive population,no action,0,0,0,0,0,0,0.05,0
+M,In the wild,mixed release strategy,current range ,1,1,1,100,0.7,0.7,1,107322746.5
+M,In the wild,mixed release strategy,current range ,1,1,1,50,0.5,0.7,1,64653471.5
+M,In the wild,focus wild born young,current range ,2,1,1,100,0.5,0.7,1,101596046.5
+M,In the wild,focus wild born young,current range ,2,1,1,50,0.4,0.6,1,60199171.5
+M,In the wild,focus wild born young + mainland release,current range ,3,1,1,100,0.6,0.7,1,110541246.5
+M,In the wild,focus wild born young + mainland release,current range ,3,1,1,50,0.4,0.5,1,64926346.5
+M,In the wild,focus high quality young leaving,current range ,4,1,1,100,0.4,0.69,1,96964696.5
+M,In the wild,focus high quality young leaving,current range ,4,1,1,50,0.4,0.6,1,55539446.5
+M,In the wild,focus high quality young leaving + mainland release,current range ,5,1,1,100,0.4,0.7,1,103519496.5
+M,In the wild,focus high quality young leaving + mainland release,current range ,5,1,1,50,0.4,0.6,1,60304771.5
+M,In the wild,fledgling release only,current range ,6,1,1,100,0.4,0.7,1,99993171.5
+M,In the wild,fledgling release only,current range ,6,1,1,50,0.5,0.7,1,58459421.5
+M,In the wild,fledgling release + mainland release,current range ,7,1,1,100,0.5,0.8,1,108471371.5
+M,In the wild,fledgling release + mainland release,current range ,7,1,1,50,0.5,0.75,1,64707721.5
+M,In the wild,mixed release strategy w/out fire,current range ,8,0,1,100,0.6,0.7,1,105910100
+M,In the wild,mixed release strategy w/out fire,current range ,8,0,1,50,0.3,0.5,1,62855825
+M,In the wild,mixed release strategy w/out PBFV,current range ,9,1,0,100,0.5,0.7,1,93657746.5
+M,In the wild,mixed release strategy w/out PBFV,current range ,9,1,0,50,0.4,0.6,1,61953471.5
+M,In the wild,focus wild born young w/out fire,current range ,10,0,1,100,0.5,0.6,1,99798400
+M,In the wild,focus wild born young w/out fire,current range ,10,0,1,50,0.2,0.45,1,58401525
+N,In the wild,No action + no captive population,no action,0,0,0,0,0,0.1,0.25,0
+N,In the wild,mixed release strategy,current range ,1,1,1,100,0.45,0.8,0.95,107322746.5
+N,In the wild,mixed release strategy,current range ,1,1,1,50,0.45,0.75,0.95,64653471.5
+N,In the wild,focus wild born young,current range ,2,1,1,100,0.4,0.8,0.95,101596046.5
+N,In the wild,focus wild born young,current range ,2,1,1,50,0.4,0.75,0.95,60199171.5
+N,In the wild,focus wild born young + mainland release,current range ,3,1,1,100,0.4,0.85,0.95,110541246.5
+N,In the wild,focus wild born young + mainland release,current range ,3,1,1,50,0.4,0.8,0.95,64926346.5
+N,In the wild,focus high quality young leaving,current range ,4,1,1,100,0.4,0.8,0.9,96964696.5
+N,In the wild,focus high quality young leaving,current range ,4,1,1,50,0.4,0.7,0.8,55539446.5
+N,In the wild,focus high quality young leaving + mainland release,current range ,5,1,1,100,0.4,0.85,0.95,103519496.5
+N,In the wild,focus high quality young leaving + mainland release,current range ,5,1,1,50,0.3,0.8,0.95,60304771.5
+N,In the wild,fledgling release only,current range ,6,1,1,100,0.4,0.8,0.9,99993171.5
+N,In the wild,fledgling release only,current range ,6,1,1,50,0.4,0.7,0.9,58459421.5
+N,In the wild,fledgling release + mainland release,current range ,7,1,1,100,0.3,0.85,0.95,108471371.5
+N,In the wild,fledgling release + mainland release,current range ,7,1,1,50,NA,NA,NA,64707721.5
+N,In the wild,mixed release strategy w/out fire,current range ,8,0,1,100,0.45,0.6,0.85,105910100
+N,In the wild,mixed release strategy w/out fire,current range ,8,0,1,50,0.4,0.55,0.85,62855825
+N,In the wild,mixed release strategy w/out PBFV,current range ,9,1,0,100,0.2,0.65,0.9,93657746.5
+N,In the wild,mixed release strategy w/out PBFV,current range ,9,1,0,50,0.2,0.55,0.8,61953471.5
+N,In the wild,focus wild born young w/out fire,current range ,10,0,1,100,0.1,0.4,0.6,99798400
+N,In the wild,focus wild born young w/out fire,current range ,10,0,1,50,0.3,0.6,0.8,58401525
+O,In the wild,No action + no captive population,no action,0,0,0,0,0,0,0.1,0
+O,In the wild,mixed release strategy,current range ,1,1,1,100,0.4,0.75,1,107322746.5
+O,In the wild,mixed release strategy,current range ,1,1,1,50,0.1,0.3,0.7,64653471.5
+O,In the wild,focus wild born young,current range ,2,1,1,100,0.5,0.6,1,101596046.5
+O,In the wild,focus wild born young,current range ,2,1,1,50,0,0.4,0.75,60199171.5
+O,In the wild,focus wild born young + mainland release,current range ,3,1,1,100,0.4,0.5,1,110541246.5
+O,In the wild,focus wild born young + mainland release,current range ,3,1,1,50,0,0.2,0.5,64926346.5
+O,In the wild,focus high quality young leaving,current range ,4,1,1,100,0.7,0.85,1,96964696.5
+O,In the wild,focus high quality young leaving,current range ,4,1,1,50,0.1,0.5,0.8,55539446.5
+O,In the wild,focus high quality young leaving + mainland release,current range ,5,1,1,100,0.5,0.75,1,103519496.5
+O,In the wild,focus high quality young leaving + mainland release,current range ,5,1,1,50,0,0.5,0.7,60304771.5
+O,In the wild,fledgling release only,current range ,6,1,1,100,0.5,0.8,1,99993171.5
+O,In the wild,fledgling release only,current range ,6,1,1,50,0.2,0.6,0.7,58459421.5
+O,In the wild,fledgling release + mainland release,current range ,7,1,1,100,0.3,0.65,1,108471371.5
+O,In the wild,fledgling release + mainland release,current range ,7,1,1,50,0.1,0.25,0.6,64707721.5
+O,In the wild,mixed release strategy w/out fire,current range ,8,0,1,100,0.25,0.7,1,105910100
+O,In the wild,mixed release strategy w/out fire,current range ,8,0,1,50,0,0.25,0.65,62855825
+O,In the wild,mixed release strategy w/out PBFV,current range ,9,1,0,100,0.3,0.5,1,93657746.5
+O,In the wild,mixed release strategy w/out PBFV,current range ,9,1,0,50,0,0.2,0.6,61953471.5
+O,In the wild,focus wild born young w/out fire,current range ,10,0,1,100,0.45,0.55,1,99798400
+O,In the wild,focus wild born young w/out fire,current range ,10,0,1,50,0,0.4,0.65,58401525
+P,In the wild,No action + no captive population,no action,0,0,0,0,NA,NA,NA,0
+P,In the wild,mixed release strategy,current range ,1,1,1,100,0.8,NA,1,107322746.5
+P,In the wild,mixed release strategy,current range ,1,1,1,50,0.25,0.7,1,64653471.5
+P,In the wild,focus wild born young,current range ,2,1,1,100,0.75,0.8,1,101596046.5
+P,In the wild,focus wild born young,current range ,2,1,1,50,0.4,0.5,1,60199171.5
+P,In the wild,focus wild born young + mainland release,current range ,3,1,1,100,0.6,NA,0.7,110541246.5
+P,In the wild,focus wild born young + mainland release,current range ,3,1,1,50,0.5,NA,0.6,64926346.5
+P,In the wild,focus high quality young leaving,current range ,4,1,1,100,0.35,0.65,1,96964696.5
+P,In the wild,focus high quality young leaving,current range ,4,1,1,50,0.2,0.5,1,55539446.5
+P,In the wild,focus high quality young leaving + mainland release,current range ,5,1,1,100,0.9,0.9,1,103519496.5
+P,In the wild,focus high quality young leaving + mainland release,current range ,5,1,1,50,0.7,0.8,1,60304771.5
+P,In the wild,fledgling release only,current range ,6,1,1,100,0.5,0.7,1,99993171.5
+P,In the wild,fledgling release only,current range ,6,1,1,50,0.3,0.5,1,58459421.5
+P,In the wild,fledgling release + mainland release,current range ,7,1,1,100,0.4,0.8,1,108471371.5
+P,In the wild,fledgling release + mainland release,current range ,7,1,1,50,0.3,0.75,1,64707721.5
+P,In the wild,mixed release strategy w/out fire,current range ,8,0,1,100,0.4,0.5,1,105910100
+P,In the wild,mixed release strategy w/out fire,current range ,8,0,1,50,0.1,0.35,1,62855825
+P,In the wild,mixed release strategy w/out PBFV,current range ,9,1,0,100,0,0.6,1,93657746.5
+P,In the wild,mixed release strategy w/out PBFV,current range ,9,1,0,50,0,0.5,1,61953471.5
+P,In the wild,focus wild born young w/out fire,current range ,10,0,1,100,0.1,0.3,1,99798400
+P,In the wild,focus wild born young w/out fire,current range ,10,0,1,50,0.1,0.3,1,58401525
+Q,In the wild,No action + no captive population,no action,0,0,0,0,0,0,0,0
+Q,In the wild,mixed release strategy,current range ,1,1,1,100,0.2,0.3,0.4,107322746.5
+Q,In the wild,mixed release strategy,current range ,1,1,1,50,0.2,0.3,0.4,64653471.5
+Q,In the wild,focus wild born young,current range ,2,1,1,100,0.2,0.3,0.4,101596046.5
+Q,In the wild,focus wild born young,current range ,2,1,1,50,0.2,0.3,0.4,60199171.5
+Q,In the wild,focus wild born young + mainland release,current range ,3,1,1,100,0.3,0.4,0.5,110541246.5
+Q,In the wild,focus wild born young + mainland release,current range ,3,1,1,50,0.2,0.3,0.4,64926346.5
+Q,In the wild,focus high quality young leaving,current range ,4,1,1,100,0.3,0.4,0.5,96964696.5
+Q,In the wild,focus high quality young leaving,current range ,4,1,1,50,0.25,0.35,0.45,55539446.5
+Q,In the wild,focus high quality young leaving + mainland release,current range ,5,1,1,100,0.35,0.45,0.55,103519496.5
+Q,In the wild,focus high quality young leaving + mainland release,current range ,5,1,1,50,0.3,0.4,0.5,60304771.5
+Q,In the wild,fledgling release only,current range ,6,1,1,100,0.35,0.45,0.55,99993171.5
+Q,In the wild,fledgling release only,current range ,6,1,1,50,0.25,0.35,0.45,58459421.5
+Q,In the wild,fledgling release + mainland release,current range ,7,1,1,100,0.35,0.45,0.55,108471371.5
+Q,In the wild,fledgling release + mainland release,current range ,7,1,1,50,0.25,0.35,0.45,64707721.5
+Q,In the wild,mixed release strategy w/out fire,current range ,8,0,1,100,0.15,0.25,0.35,105910100
+Q,In the wild,mixed release strategy w/out fire,current range ,8,0,1,50,0.15,0.25,0.35,62855825
+Q,In the wild,mixed release strategy w/out PBFV,current range ,9,1,0,100,0.3,0.4,0.5,93657746.5
+Q,In the wild,mixed release strategy w/out PBFV,current range ,9,1,0,50,0.2,0.3,0.4,61953471.5
+Q,In the wild,focus wild born young w/out fire,current range ,10,0,1,100,0.05,0.15,0.25,99798400
+Q,In the wild,focus wild born young w/out fire,current range ,10,0,1,50,0.05,0.15,0.25,58401525
+R,In the wild,No action + no captive population,no action,0,0,0,0,0,0.05,0.1,0
+R,In the wild,mixed release strategy,current range ,1,1,1,100,0,0.5,0.7,107322746.5
+R,In the wild,mixed release strategy,current range ,1,1,1,50,0,0.3,0.5,64653471.5
+R,In the wild,focus wild born young,current range ,2,1,1,100,0,0.6,0.7,101596046.5
+R,In the wild,focus wild born young,current range ,2,1,1,50,0,0.25,0.5,60199171.5
+R,In the wild,focus wild born young + mainland release,current range ,3,1,1,100,0,0.64,0.7,110541246.5
+R,In the wild,focus wild born young + mainland release,current range ,3,1,1,50,0,0.2,0.5,64926346.5
+R,In the wild,focus high quality young leaving,current range ,4,1,1,100,0,0.7,0.8,96964696.5
+R,In the wild,focus high quality young leaving,current range ,4,1,1,50,0,0.5,0.7,55539446.5
+R,In the wild,focus high quality young leaving + mainland release,current range ,5,1,1,100,0,0.75,0.8,103519496.5
+R,In the wild,focus high quality young leaving + mainland release,current range ,5,1,1,50,0,0.3,0.6,60304771.5
+R,In the wild,fledgling release only,current range ,6,1,1,100,0,0.6,0.8,99993171.5
+R,In the wild,fledgling release only,current range ,6,1,1,50,0,0.4,0.7,58459421.5
+R,In the wild,fledgling release + mainland release,current range ,7,1,1,100,0,0.7,0.9,108471371.5
+R,In the wild,fledgling release + mainland release,current range ,7,1,1,50,0,0.3,0.6,64707721.5
+R,In the wild,mixed release strategy w/out fire,current range ,8,0,1,100,0,0.3,0.5,105910100
+R,In the wild,mixed release strategy w/out fire,current range ,8,0,1,50,0,0.1,0.4,62855825
+R,In the wild,mixed release strategy w/out PBFV,current range ,9,1,0,100,0,0.46,0.7,93657746.5
+R,In the wild,mixed release strategy w/out PBFV,current range ,9,1,0,50,0,0.25,0.5,61953471.5
+R,In the wild,focus wild born young w/out fire,current range ,10,0,1,100,0,0.4,0.6,99798400
+R,In the wild,focus wild born young w/out fire,current range ,10,0,1,50,0,0.15,0.4,58401525
+S,In the wild,No action + no captive population,no action,0,0,0,0,0,0.05,0.1,0
+S,In the wild,mixed release strategy,current range ,1,1,1,100,0,0.14,0.53,107322746.5
+S,In the wild,mixed release strategy,current range ,1,1,1,50,0,0.13,0.51,64653471.5
+S,In the wild,focus wild born young,current range ,2,1,1,100,0,0.15,0.5,101596046.5
+S,In the wild,focus wild born young,current range ,2,1,1,50,0,0.15,0.5,60199171.5
+S,In the wild,focus wild born young + mainland release,current range ,3,1,1,100,0,0.16,0.6,110541246.5
+S,In the wild,focus wild born young + mainland release,current range ,3,1,1,50,0,0.16,0.53,64926346.5
+S,In the wild,focus high quality young leaving,current range ,4,1,1,100,0,0.16,0.4,96964696.5
+S,In the wild,focus high quality young leaving,current range ,4,1,1,50,0,0.16,0.4,55539446.5
+S,In the wild,focus high quality young leaving + mainland release,current range ,5,1,1,100,0,0.2,0.45,103519496.5
+S,In the wild,focus high quality young leaving + mainland release,current range ,5,1,1,50,0,0.2,0.45,60304771.5
+S,In the wild,fledgling release only,current range ,6,1,1,100,0,0.1,0.3,99993171.5
+S,In the wild,fledgling release only,current range ,6,1,1,50,0,0.1,0.3,58459421.5
+S,In the wild,fledgling release + mainland release,current range ,7,1,1,100,0,0.28,0.5,108471371.5
+S,In the wild,fledgling release + mainland release,current range ,7,1,1,50,0,0.25,0.5,64707721.5
+S,In the wild,mixed release strategy w/out fire,current range ,8,0,1,100,0,0.05,0.14,105910100
+S,In the wild,mixed release strategy w/out fire,current range ,8,0,1,50,0,0.05,0.1,62855825
+S,In the wild,mixed release strategy w/out PBFV,current range ,9,1,0,100,0,0.2,0.33,93657746.5
+S,In the wild,mixed release strategy w/out PBFV,current range ,9,1,0,50,0,0.2,0.35,61953471.5
+S,In the wild,focus wild born young w/out fire,current range ,10,0,1,100,0,0.05,0.1,99798400
+S,In the wild,focus wild born young w/out fire,current range ,10,0,1,50,0,0.05,0.1,58401525
+T,In the wild,No action + no captive population,no action,0,0,0,0,0,0.05,0.1,0
+T,In the wild,mixed release strategy,current range ,1,1,1,100,0.25,0.64,0.9,107322746.5
+T,In the wild,mixed release strategy,current range ,1,1,1,50,0.2,0.5,0.8,64653471.5
+T,In the wild,focus wild born young,current range ,2,1,1,100,0.3,0.55,0.8,101596046.5
+T,In the wild,focus wild born young,current range ,2,1,1,50,0.3,0.5,0.8,60199171.5
+T,In the wild,focus wild born young + mainland release,current range ,3,1,1,100,0.29,0.5,0.86,110541246.5
+T,In the wild,focus wild born young + mainland release,current range ,3,1,1,50,0.2,0.5,0.8,64926346.5
+T,In the wild,focus high quality young leaving,current range ,4,1,1,100,0.2,0.7,0.95,96964696.5
+T,In the wild,focus high quality young leaving,current range ,4,1,1,50,0.2,0.6,0.92,55539446.5
+T,In the wild,focus high quality young leaving + mainland release,current range ,5,1,1,100,0.2,0.7,0.95,103519496.5
+T,In the wild,focus high quality young leaving + mainland release,current range ,5,1,1,50,0.2,0.6,0.93,60304771.5
+T,In the wild,fledgling release only,current range ,6,1,1,100,0.1,0.34,0.6,99993171.5
+T,In the wild,fledgling release only,current range ,6,1,1,50,0.09,0.34,0.6,58459421.5
+T,In the wild,fledgling release + mainland release,current range ,7,1,1,100,0.1,0.35,0.6,108471371.5
+T,In the wild,fledgling release + mainland release,current range ,7,1,1,50,0.1,0.35,0.6,64707721.5
+T,In the wild,mixed release strategy w/out fire,current range ,8,0,1,100,0,0.35,0.7,105910100
+T,In the wild,mixed release strategy w/out fire,current range ,8,0,1,50,0,0.4,0.6,62855825
+T,In the wild,mixed release strategy w/out PBFV,current range ,9,1,0,100,0.3,0.65,0.8,93657746.5
+T,In the wild,mixed release strategy w/out PBFV,current range ,9,1,0,50,0.2,0.6,0.7,61953471.5
+T,In the wild,focus wild born young w/out fire,current range ,10,0,1,100,0.15,0.45,0.7,99798400
+T,In the wild,focus wild born young w/out fire,current range ,10,0,1,50,0.14,0.4,0.7,58401525
+U,In the wild,No action + no captive population,no action,0,0,0,0,0,0,0,0
+U,In the wild,mixed release strategy,current range ,1,1,1,100,0.4,0.5,0.9,107322746.5
+U,In the wild,mixed release strategy,current range ,1,1,1,50,0,0.1,0.2,64653471.5
+U,In the wild,focus wild born young,current range ,2,1,1,100,0.4,0.6,0.8,101596046.5
+U,In the wild,focus wild born young,current range ,2,1,1,50,0,0.1,0.2,60199171.5
+U,In the wild,focus wild born young + mainland release,current range ,3,1,1,100,0.2,0.31,0.5,110541246.5
+U,In the wild,focus wild born young + mainland release,current range ,3,1,1,50,0,0.05,0.1,64926346.5
+U,In the wild,focus high quality young leaving,current range ,4,1,1,100,0.3,0.5,0.7,96964696.5
+U,In the wild,focus high quality young leaving,current range ,4,1,1,50,0,0.1,0.2,55539446.5
+U,In the wild,focus high quality young leaving + mainland release,current range ,5,1,1,100,0.1,0.24,0.4,103519496.5
+U,In the wild,focus high quality young leaving + mainland release,current range ,5,1,1,50,0,0.05,0.1,60304771.5
+U,In the wild,fledgling release only,current range ,6,1,1,100,0.5,0.65,0.85,99993171.5
+U,In the wild,fledgling release only,current range ,6,1,1,50,0.2,0.35,0.5,58459421.5
+U,In the wild,fledgling release + mainland release,current range ,7,1,1,100,0.1,0.4,0.7,108471371.5
+U,In the wild,fledgling release + mainland release,current range ,7,1,1,50,0.05,0.25,0.5,64707721.5
+U,In the wild,mixed release strategy w/out fire,current range ,8,0,1,100,0.2,0.34,0.5,105910100
+U,In the wild,mixed release strategy w/out fire,current range ,8,0,1,50,0,0.05,0.1,62855825
+U,In the wild,mixed release strategy w/out PBFV,current range ,9,1,0,100,0.35,0.5,NA,93657746.5
+U,In the wild,mixed release strategy w/out PBFV,current range ,9,1,0,50,0,0.1,0.2,61953471.5
+U,In the wild,focus wild born young w/out fire,current range ,10,0,1,100,0.2,0.35,0.5,99798400
+U,In the wild,focus wild born young w/out fire,current range ,10,0,1,50,0,0.05,0.1,58401525
+V,In the wild,No action + no captive population,no action,0,0,0,0,0.12,0.2,0.26,0
+V,In the wild,mixed release strategy,current range ,1,1,1,100,0.05,0.12,0.2,107322746.5
+V,In the wild,mixed release strategy,current range ,1,1,1,50,0.08,0.13,0.2,64653471.5
+V,In the wild,focus wild born young,current range ,2,1,1,100,0.15,0.25,0.35,101596046.5
+V,In the wild,focus wild born young,current range ,2,1,1,50,NA,NA,NA,60199171.5
+V,In the wild,focus wild born young + mainland release,current range ,3,1,1,100,0.25,0.4,0.86,110541246.5
+V,In the wild,focus wild born young + mainland release,current range ,3,1,1,50,0.15,0.35,0.7,64926346.5
+V,In the wild,focus high quality young leaving,current range ,4,1,1,100,NA,NA,NA,96964696.5
+V,In the wild,focus high quality young leaving,current range ,4,1,1,50,NA,NA,NA,55539446.5
+V,In the wild,focus high quality young leaving + mainland release,current range ,5,1,1,100,NA,NA,NA,103519496.5
+V,In the wild,focus high quality young leaving + mainland release,current range ,5,1,1,50,NA,NA,NA,60304771.5
+V,In the wild,fledgling release only,current range ,6,1,1,100,NA,NA,NA,99993171.5
+V,In the wild,fledgling release only,current range ,6,1,1,50,NA,NA,NA,58459421.5
+V,In the wild,fledgling release + mainland release,current range ,7,1,1,100,0.5,0.7,0.91,108471371.5
+V,In the wild,fledgling release + mainland release,current range ,7,1,1,50,0.3,0.6,0.9,64707721.5
+V,In the wild,mixed release strategy w/out fire,current range ,8,0,1,100,0.1,0.2,0.3,105910100
+V,In the wild,mixed release strategy w/out fire,current range ,8,0,1,50,0.05,0.15,0.25,62855825
+V,In the wild,mixed release strategy w/out PBFV,current range ,9,1,0,100,NA,NA,NA,93657746.5
+V,In the wild,mixed release strategy w/out PBFV,current range ,9,1,0,50,NA,NA,NA,61953471.5
+V,In the wild,focus wild born young w/out fire,current range ,10,0,1,100,0.15,0.25,0.35,99798400
+V,In the wild,focus wild born young w/out fire,current range ,10,0,1,50,0.1,0.2,0.3,58401525
+A,In the wild,No action + no captive population,no action,0,0,0,0,0,0,0,0
+B,In the wild,No action + no captive population,no action,0,0,0,0,0,0.1,0.3,0
+C,In the wild,No action + no captive population,no action,0,0,0,0,0,0,0,0
+D,In the wild,No action + no captive population,no action,0,0,0,0,0.1,0.3,0.5,0
+E,In the wild,No action + no captive population,no action,0,0,0,0,0.2,0.45,0.5,0
+F,In the wild,No action + no captive population,no action,0,0,0,0,0,0,0.05,0
+G,In the wild,No action + no captive population,no action,0,0,0,0,NA,NA,NA,0
+H,In the wild,No action + no captive population,no action,0,0,0,0,0,0.01,0.02,0
+I,In the wild,No action + no captive population,no action,0,0,0,0,0,0,0,0
+J,In the wild,No action + no captive population,no action,0,0,0,0,0,0.05,0.1,0
+K,In the wild,No action + no captive population,no action,0,0,0,0,0,0.1,0.2,0
+L,In the wild,No action + no captive population,no action,0,0,0,0,0,0,0,0
+M,In the wild,No action + no captive population,no action,0,0,0,0,0,0,0.05,0
+N,In the wild,No action + no captive population,no action,0,0,0,0,0,0.2,0.5,0
+O,In the wild,No action + no captive population,no action,0,0,0,0,0,0,0.1,0
+P,In the wild,No action + no captive population,no action,0,0,0,0,0,0.05,0.05,0
+Q,In the wild,No action + no captive population,no action,0,0,0,0,0,0,0,0
+R,In the wild,No action + no captive population,no action,0,0,0,0,0,0.05,0.2,0
+S,In the wild,No action + no captive population,no action,0,0,0,0,0,0,0,0
+T,In the wild,No action + no captive population,no action,0,0,0,0,0,0.25,0.5,0
+U,In the wild,No action + no captive population,no action,0,0,0,0,0.4,0.5,0.7,0
+V,In the wild,No action + no captive population,no action,0,0,0,0,0.05,0.1,0.2,0
